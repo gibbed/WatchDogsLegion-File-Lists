@@ -1,0 +1,19 @@
+; 18/45 (40%)
+engine\settings\commandconfig.default.xml
+engine\settings\defaultengineconfig.xml
+engine\settings\defaultengineconfig_legacy.xml
+engine\settings\defaultengineservicesconfig.xml
+engine\settings\defaultgameconfig.xml
+engine\settings\defaultlaunchconfig.xml
+engine\settings\defaultnetworkconfig.xml
+engine\settings\defaultrealtreeconfig.xml
+engine\settings\defaultrenderconfig.xml
+engine\settings\defaultsoundconfig.xml
+engine\settings\defaultthreadingconfig.xml
+engine\settings\durango\playerawards.xml
+engine\settings\durango\playerpresence.xml
+engine\settings\gpudatabase.xml
+engine\settings\orbis\playerawards.xml
+engine\settings\orbis\playerpresence.xml
+engine\settings\win64\playerawards.xml
+engine\settings\win64\playerpresence.xml
