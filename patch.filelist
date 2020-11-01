@@ -1,4 +1,4 @@
-; 3490/32239 (10%)
+; 3493/32239 (10%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_gameplay.fzl
 aireactions\aireactions_human_animation.fzl
@@ -300,7 +300,10 @@ engine\settings\defaultengineservicesconfig.xml
 engine\settings\defaultrenderconfig.xml
 engine\settings\durango\playerawards.xml
 engine\settings\orbis\playerawards.xml
+engine\settings\prospero\playerawards.xml
+engine\settings\scarlett\playerawards.xml
 engine\settings\win64\playerawards.xml
+engine\settings\yeti\playerawards.xml
 engine\shaders\fastinitdata.bin
 engine\shaders\fastinitdata_d3d12.bin
 engine\shaders\obj\index.cso

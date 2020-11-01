@@ -1,4 +1,4 @@
-; 18/45 (40%)
+; 23/45 (51%)
 engine\settings\commandconfig.default.xml
 engine\settings\defaultengineconfig.xml
 engine\settings\defaultengineconfig_legacy.xml
@@ -15,5 +15,10 @@ engine\settings\durango\playerpresence.xml
 engine\settings\gpudatabase.xml
 engine\settings\orbis\playerawards.xml
 engine\settings\orbis\playerpresence.xml
+engine\settings\prospero\playerawards.xml
+engine\settings\prospero\playerpresence.xml
+engine\settings\scarlett\playerawards.xml
+engine\settings\scarlett\playerpresence.xml
 engine\settings\win64\playerawards.xml
 engine\settings\win64\playerpresence.xml
+engine\settings\yeti\playerawards.xml

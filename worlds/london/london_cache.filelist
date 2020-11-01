@@ -1,4 +1,4 @@
-; 23102/30458 (75%)
+; 23135/30458 (75%)
 {6e7080e6-969d-423b-9876-d5d49f8b442b}
 animations\civilians\bareknuckleboxing\i00-000-00_bareknuckle-keypad01_fplyr_000f_norm_nowep.mab
 animations\civilians\bareknuckleboxing\i00-000-00_bareknuckle-keypad01_mplyr_000f_norm_nowep.mab
@@ -142,15 +142,19 @@ graphics\_geometries\vegetation\grass\grass_short_kit\grass_short_kit_01_strip_0
 graphics\_geometries\vegetation\grass\grass_short_kit\grass_short_kit_01_strip_thin_01_2m.xbg
 graphics\_geometries\vegetation\grass\grass_short_kit\grass_short_kit_01_strip_thin_01_4m.xbg
 graphics\_geometries\vegetation\grass\grass_short_kit\grass_short_kit_01_strip_thin_01_50cm.xbg
+graphics\_geometries\vegetation\plants\alocasia\alocasia_01.xbg
+graphics\_geometries\vegetation\plants\areca_palm\areca_palm_01.xbg
 graphics\_geometries\vegetation\plants\baby_blue_eyes\baby_blue_eyes_kit_01_group_01.xbg
 graphics\_geometries\vegetation\plants\baby_blue_eyes\baby_blue_eyes_kit_01_small_01.xbg
 graphics\_geometries\vegetation\plants\banana_plant\banana_plant_01.xbg
+graphics\_geometries\vegetation\plants\banana_plant\banana_plant_03.hkx
 graphics\_geometries\vegetation\plants\banana_plant\banana_plant_03.xbg
 graphics\_geometries\vegetation\plants\blue_wheatgrass\blue_wheatgrass_kit_01_big_01.xbg
 graphics\_geometries\vegetation\plants\california_melic_kit\california_melic_kit_01_2x2.xbg
 graphics\_geometries\vegetation\plants\california_polypody\california_polypody_kit_01_dense_2x2.xbg
 graphics\_geometries\vegetation\plants\california_poppy\california_poppy_01.xbg
 graphics\_geometries\vegetation\plants\california_poppy\california_poppy_01_group_01.xbg
+graphics\_geometries\vegetation\plants\cannabis\cannabis_01.xbg
 graphics\_geometries\vegetation\plants\coral_bells_kit_01\coral_bells_kit_01_group_01.xbg
 graphics\_geometries\vegetation\plants\cow_parsnip\cow_parsnip_01.xbg
 graphics\_geometries\vegetation\plants\cow_parsnip\cow_parsnip_01_group_01.xbg
@@ -165,6 +169,7 @@ graphics\_geometries\vegetation\plants\fern\fern_kit_01_group_02.xbg
 graphics\_geometries\vegetation\plants\fiddlenecks_kit_01\fiddlenecks_kit_01_group_01.xbg
 graphics\_geometries\vegetation\plants\fiddlenecks_kit_01\fiddlenecks_kit_01_small_01.xbg
 graphics\_geometries\vegetation\plants\flax\flax_01_group_01.xbg
+graphics\_geometries\vegetation\plants\flowers_generic\flowers_generic_01.xbg
 graphics\_geometries\vegetation\plants\franciscan_wallflower_kit_01\franciscan_wallflower_kit_01_group_01.xbg
 graphics\_geometries\vegetation\plants\french_lavender\french_lavender_kit_01_big_01.xbg
 graphics\_geometries\vegetation\plants\french_lavender\french_lavender_kit_01_small_01.xbg
@@ -178,6 +183,7 @@ graphics\_geometries\vegetation\plants\miners_lettuce_kit_01\miners_lettuce_kit_
 graphics\_geometries\vegetation\plants\miners_lettuce_kit_01\miners_lettuce_kit_01_sparse_2x2.xbg
 graphics\_geometries\vegetation\plants\myoporum\myoporum_kit_01_dense_2x2.xbg
 graphics\_geometries\vegetation\plants\myoporum\myoporum_kit_01_sparse_2x2.xbg
+graphics\_geometries\vegetation\plants\phoenix\phoenix_01.xbg
 graphics\_geometries\vegetation\plants\sea_plantain_kit_01\sea_plantain_kit_01_group_01.xbg
 graphics\_geometries\vegetation\plants\sea_plantain_kit_01\sea_plantain_kit_01_small_01.xbg
 graphics\_geometries\vegetation\plants\wild_ginger_kit\wild_ginger_kit_01_med_2x2.xbg
@@ -196,19 +202,35 @@ graphics\_geometries\vegetation\static\american_aloe\american_aloe_kit_01_large_
 graphics\_geometries\vegetation\static\american_aloe\american_aloe_kit_01_med_01.xbg
 graphics\_geometries\vegetation\static\american_aloe\american_aloe_kit_01_small_01.xbg
 graphics\_geometries\vegetation\static\branch_dead_ground_kit_01\branch_dead_ground_kit_01_big_01.xbg
+graphics\_geometries\vegetation\static\branch_dead_ground_kit_01\branch_dead_ground_kit_01_med_01.hkx
 graphics\_geometries\vegetation\static\branch_dead_ground_kit_01\branch_dead_ground_kit_01_med_01.xbg
+graphics\_geometries\vegetation\static\branch_dead_ground_kit_01\branch_dead_ground_kit_01_small_01.hkx
 graphics\_geometries\vegetation\static\branch_dead_ground_kit_01\branch_dead_ground_kit_01_small_01.xbg
+graphics\_geometries\vegetation\static\cactus_pot_kit_01\cactus_pot_kit_01_large_01.xbg
+graphics\_geometries\vegetation\static\cactus_pot_kit_01\cactus_pot_kit_01_large_02.hkx
+graphics\_geometries\vegetation\static\cactus_pot_kit_01\cactus_pot_kit_01_large_02.xbg
+graphics\_geometries\vegetation\static\cactus_pot_kit_01\cactus_pot_kit_01_med_01.xbg
+graphics\_geometries\vegetation\static\cactus_pot_kit_01\cactus_pot_kit_01_small_01.xbg
 graphics\_geometries\vegetation\static\jade_plant\jade_plant_01.hkx
 graphics\_geometries\vegetation\static\jade_plant\jade_plant_01.xbg
+graphics\_geometries\vegetation\static\platters_tree_kit_01\platters_tree_kit_01_short_01.xbg
+graphics\_geometries\vegetation\static\platters_tree_kit_01\platters_tree_kit_01_tall_01.xbg
+graphics\_geometries\vegetation\static\pruned_tree_kit_01\pruned_tree_kit_01_medium_01.hkx
 graphics\_geometries\vegetation\static\pruned_tree_kit_01\pruned_tree_kit_01_medium_01.xbg
 graphics\_geometries\vegetation\static\roots_kit_01\roots_kit_01_ground_01.xbg
 graphics\_geometries\vegetation\static\roots_kit_01\roots_kit_01_ground_02.xbg
 graphics\_geometries\vegetation\static\senita_cactus_kit_01\senita_cactus_kit_01_small_01.xbg
 graphics\_geometries\vegetation\static\stump_kit_01\stump_kit_01_large_01.xbg
+graphics\_geometries\vegetation\static\tree_fallen_kit_01\tree_fallen_kit_01_large_02.hkx
 graphics\_geometries\vegetation\static\tree_fallen_kit_01\tree_fallen_kit_01_large_02.xbg
+graphics\_geometries\vegetation\static\tree_fallen_kit_01\tree_fallen_kit_01_medium_01.hkx
 graphics\_geometries\vegetation\static\tree_fallen_kit_01\tree_fallen_kit_01_medium_01.xbg
+graphics\_geometries\vegetation\static\tree_fallen_kit_01\tree_fallen_kit_01_small_01.hkx
 graphics\_geometries\vegetation\static\tree_fallen_kit_01\tree_fallen_kit_01_small_01.xbg
+graphics\_geometries\vegetation\static\vegetable_garden_kit_01\vegetable_garden_kit_01_cabbage_01.xbg
 graphics\_geometries\vegetation\static\vegetable_garden_kit_01\vegetable_garden_kit_01_green_onion_01.xbg
+graphics\_geometries\vegetation\static\vegetable_garden_kit_01\vegetable_garden_kit_01_hot_pepper_01.xbg
+graphics\_geometries\vegetation\static\vegetable_garden_kit_01\vegetable_garden_kit_01_tomato_01.xbg
 graphics\_geometries\vegetation\static\white_cedar_hedge_kit_01\white_cedar_hedge_kit_01_4m_rear.xbg
 graphics\_geometries\vegetation\static\white_cedar_hedge_kit_01\white_cedar_hedge_kit_01_8m_rear.xbg
 graphics\_geometries\vegetation\static\white_cedar_hedge_kit_01\white_cedar_hedge_kit_01_side_cap.xbg
@@ -1156,6 +1178,7 @@ graphics\_materials\dbeaulieu-m-9223372094119949256.material.bin
 graphics\_materials\dbeaulieu-m-9223372094119949257.material.bin
 graphics\_materials\dbeaulieu-m-9223372096121915883.material.bin
 graphics\_materials\dengjing-m-20150520164645.material.bin
+graphics\_materials\dengjing-m-9223372048534595894.material.bin
 graphics\_materials\dluka-m-9223372082896514288.material.bin
 graphics\_materials\dluka-m-9223372082896514289.material.bin
 graphics\_materials\dluka-m-9223372082896531967.material.bin
@@ -1223,6 +1246,8 @@ graphics\_materials\dyumei-m-9223372090681872598.material.bin
 graphics\_materials\dzerkoulis-m-9223372261430784696.material.bin
 graphics\_materials\ecottell-m-9223372084211242950.material.bin
 graphics\_materials\ecottell-m-9223372108909451906.material.bin
+graphics\_materials\efredette-m-20150828082020.material.bin
+graphics\_materials\efredette-m-20150828082512.material.bin
 graphics\_materials\efredette-m-9223372045583518137.material.bin
 graphics\_materials\ekim-m-9223372074355295798.material.bin
 graphics\_materials\ekim-m-9223372096905786171.material.bin
@@ -1368,6 +1393,7 @@ graphics\_materials\hmistry-m-9223372076703982026.material.bin
 graphics\_materials\hmistry-m-9223372080513988927.material.bin
 graphics\_materials\hmistry-m-9223372083518644921.material.bin
 graphics\_materials\hmistry-m-9223372087932724224.material.bin
+graphics\_materials\huangmogeng-m-619201377711163.material.bin
 graphics\_materials\igulyaev-m-9223372154459392374.material.bin
 graphics\_materials\imunene-m-9223372101025472485.material.bin
 graphics\_materials\jauchinleck-m-9223372080203197662.material.bin
@@ -1489,6 +1515,7 @@ graphics\_materials\kosullivan-m-9223372259272878884.material.bin
 graphics\_materials\lasisu-m-9223372088397917929.material.bin
 graphics\_materials\lchow-m-9223372049958580710.material.bin
 graphics\_materials\lchow-m-9223372049958586919.material.bin
+graphics\_materials\lchow-m-9223372049958786649.material.bin
 graphics\_materials\lchow-m-9223372080818431622.material.bin
 graphics\_materials\lchow-m-9223372080818637447.material.bin
 graphics\_materials\lchow-m-9223372080818637448.material.bin
@@ -1960,6 +1987,7 @@ graphics\_materials\pmandegarian-m-9223372112657533295.material.bin
 graphics\_materials\pmandegarian-m-9223372112657534751.material.bin
 graphics\_materials\pmandegarian-m-9223372120780354796.material.bin
 graphics\_materials\ppelletier2-m-9223372048167631031.material.bin
+graphics\_materials\ppelletier2-m-9223372053353630402.material.bin
 graphics\_materials\psirois-m-9223372077677277091.material.bin
 graphics\_materials\psirois-m-9223372081177204748.material.bin
 graphics\_materials\psirois-m-9223372081177255274.material.bin
@@ -2374,6 +2402,7 @@ graphics\_materials\wanglongfei-m-9223372082902988311.material.bin
 graphics\_materials\wanglongfei-m-9223372082902988312.material.bin
 graphics\_materials\wangqingxia2-m-9223372093909632875.material.bin
 graphics\_materials\wangtao-m-9223372047286218626.material.bin
+graphics\_materials\wangxiaoli-m-20150709144254.material.bin
 graphics\_materials\weikai-m-9223372096697547787.material.bin
 graphics\_materials\weikai-m-9223372096697548551.material.bin
 graphics\_materials\weikai-m-9223372096697548552.material.bin
@@ -13726,9 +13755,11 @@ graphics\lights\wallmount_dense\residential\light_modern_cylinder_01.xbg
 graphics\lights\wallmount_dense\residential\light_modern_cylinder_02.xbg
 graphics\lights\wallmount_dense\residential\light_modern_cylinder_half_01.xbg
 graphics\lights\wallmount_dense\residential\light_modern_rectangle_01.xbg
+graphics\lofts\freeway\wall_sv_01_endcap_9_5m_01.hkx
 graphics\lofts\freeway\wall_sv_01_endcap_9_5m_01.xbg
 graphics\lofts\guardrails\guardrail_fence_railling.xlf
 graphics\lofts\guardrails\guardrail_metal.xlf
+graphics\lofts\guardrails\guardrail_suicide_pole.hkx
 graphics\lofts\guardrails\guardrail_suicide_pole.xbg
 graphics\lofts\plazas\planter_trim_01_5m.xlf
 graphics\lofts\plazas\roof_flashing_01.xlf
@@ -14278,6 +14309,8 @@ move\decisiontrees\player-ai\customactions\genericinteractiveobjects\server_sate
 move\decisiontrees\player-ai\customactions\genericinteractiveobjects\server_surveillance_ar_01.move.bin
 move\decisiontrees\player-ai\customactions\genericinteractiveobjects\tubestation_doorhandle_01.move.bin
 move\decisiontrees\player-ai\customactions\genericinteractiveobjects\use-computer_wd3.move.bin
+move\decisiontrees\player-ai\customactions\shopcloth_player\shopcloth_bag.move.bin
+move\decisiontrees\player-ai\customactions\shopcloth_player\shopcloth_jacket.move.bin
 move\decisiontrees\player-ai\customactions\yinteraction_spiderdrone_vent.move.bin
 move\decisiontrees\player-ai\customactions\yinteraction_spiderdrone_ventdoctordock.move.bin
 move\decisiontrees\player-ai\football\football-lose_01.move.bin
