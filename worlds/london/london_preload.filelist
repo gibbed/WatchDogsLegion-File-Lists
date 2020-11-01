@@ -1,4 +1,4 @@
-; 47045/94084 (50%)
+; 47055/94084 (50%)
 {fa5e98d1-9887-491b-ad84-7c250e55c299}
 animations\alertzone\a00-000-00_alert-zones-g2y-v00_mnpc_000f_unaware_rifle.mab
 animations\alertzone\a00-000-00_alert-zones-g2y-v00_mnpc_045l_unaware_rifle.mab
@@ -17935,11 +17935,18 @@ animations\scr\gb\f00-000-00_gb-convo-2h-idle-wait-slot1-v1_mnpc_000f_unaware_ri
 animations\scr\operations\mecernary_opline\opl_331\opl_331_s030_hyb\f00-000-00_opl-331-s030-mad-hyb-hamish-exit_fplyr.markup.bin
 animations\scr\operations\mecernary_opline\opl_331\opl_331_s030_hyb\f00-000-00_opl-331-s030-mad-hyb-hamish-exit_mplyr.markup.bin
 animations\scr\operations\raid\h00-000-00_rds-120-charredcorpse12_mcivi.dpax
+animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackerspace-mainspace-start-couch-01-generic_fplyr.markup.bin
 animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackerspace-mainspace-start-couch-01-generic_mplyr.markup.bin
 animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackerspace-mainspace-start-couch-02-generic_fplyr.markup.bin
+animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackerspace-mainspace-start-couch-02-generic_mplyr.markup.bin
 animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackerspace-mainspace-start-railing-generic_mplyr.markup.bin
 animations\scriptedevents\narrative\scenes\gst_005_s010_hyb_pub\f00-000-00_gst-005-s010-hyb-pub-gen_mplyr.markup.bin
 animations\scriptedevents\narrative\scenes\gst_005_s010_hyb_pub\f00-000-00_gst-005-s010-hyb-pub-slot1-gen_mplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_205_s030_hyb_nowt_doubts\f00-000-00_cin-hyb-opl-205-s030-nowt-doubts-slot1-nowt_fnpc.markup.bin
+animations\scriptedevents\narrative\scenes\opl_209_estate_elevatorout\f00-000-00_opl-209-s360-tkr-nowt-outro-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_209_estate_elevatorout\f00-000-00_opl-209-s360-tkr-nowt-outro-slot1-nowt_fnpc.markup.bin
+animations\scriptedevents\narrative\scenes\opl_209_s330_hyb_mother\f00-000-00_cin-hyb-opl-209-s330-mother-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_312_s060_hyb_hamish\f00-000-00_hyb-opl-312-s060-hamish-slot0-gen_fplyr.markup.bin
 animations\shopkeeper\a63-021-01_gunshop-v01-x-b-hu-raises-hands_mciv.mab
 animations\takedown\a00-000-00_sprint-close-from-tictac-300cm-takedown-kick-tictac_mplyr_090r_norm_pisto.mab
 animations\takedown\a00-000-00_takedown-vault-300cm-down_mplyr_000f_norm_nowep.mab
@@ -29558,6 +29565,8 @@ graphics\_texture\gameplay_ingredients\static_city_object\avonblocker_01_n.xbt
 graphics\_texture\gameplay_ingredients\static_city_object\avonblocker_01_s.xbt
 graphics\_texture\gameplay_ingredients\static_city_object\bollard_rising_kit_01_albedo.xbt
 graphics\_texture\gameplay_ingredients\static_city_object\bollard_rising_kit_01_brdf.xbt
+graphics\_texture\gameplay_ingredients\static_city_object\controlcommand_01_c.xbt
+graphics\_texture\gameplay_ingredients\static_city_object\controlcommand_01_s.xbt
 graphics\_texture\gameplay_ingredients\static_city_object\cover_hackable_01_albedo.xbt
 graphics\_texture\gameplay_ingredients\static_city_object\cover_hackable_01_brdf.xbt
 graphics\_texture\gameplay_ingredients\static_city_object\ctos_main_switch_01_branding_01_e.xbt
@@ -43014,6 +43023,7 @@ graphics\terrain\oob_buildings\social_georg02_40m_01.xbg
 graphics\terrain\oob_buildings\social_mdln01_6f_60m_01.xbg
 graphics\terrain\oob_buildings\social_soch02_68m_01.xbg
 graphics\updates\y01e01\_texture\gameplay_ingredients\spider_arena\spider_skins\y01e01_robotspider_skins_01_1.xbt
+graphics\users\apiacob\noise_01_c.xbt
 graphics\users\apiacob\noise_01_e.xbt
 graphics\users\garcand\ping\gil_ping_ruler_01.xbt
 graphics\users\mverbowski\test_kit_01\single_tri_01.xbg

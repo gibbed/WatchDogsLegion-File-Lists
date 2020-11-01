@@ -1,4 +1,4 @@
-; 3476/32239 (10%)
+; 3487/32239 (10%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_gameplay.fzl
 aireactions\aireactions_human_animation.fzl
@@ -167,6 +167,7 @@ dialog\opr_f_passionateactivist\opr_f_passionateactivist.stimuli.dsc.pack
 dialog\opr_f_professionalprotector\opr_f_professionalprotector.stimuli.dsc.pack
 dialog\opr_f_resourcefuldelinquent\opr_f_resourcefuldelinquent.stimuli.dsc.pack
 dialog\opr_f_ribaldpublican\opr_f_ribaldpublican.stimuli.dsc.pack
+dialog\opr_f_shrewdscoundrel\opr_f_shrewdscoundrel.stimuli.dsc.pack
 dialog\opr_f_vicioussocialite\opr_f_vicioussocialite.stimuli.dsc.pack
 dialog\opr_m_callousedgeezah\opr_m_callousedgeezah.stimuli.dsc.pack
 dialog\opr_m_classyjoker\opr_m_classyjoker.stimuli.dsc.pack
@@ -372,6 +373,7 @@ engine\shaders\obj_d3d12\h0c\dependencies_fca7405b37c5c40c.dep
 engine\shaders\obj_d3d12\h0c\pixel_e6411a1fccba400c.pso
 engine\shaders\obj_d3d12\h0d\dependencies_11007ce4ec49830d.dep
 engine\shaders\obj_d3d12\h0d\dependencies_3254d341f962e40d.dep
+engine\shaders\obj_d3d12\h0d\dependencies_656e387e078a060d.dep
 engine\shaders\obj_d3d12\h0d\dependencies_a39c109e920a7d0d.dep
 engine\shaders\obj_d3d12\h0d\dependencies_a8fc90f6914f398d.dep
 engine\shaders\obj_d3d12\h0d\dependencies_b6d26e1bf1db8e8d.dep
@@ -447,6 +449,7 @@ engine\shaders\obj_d3d12\h19\dependencies_e59ccf0efce599.dep
 engine\shaders\obj_d3d12\h19\pixel_8a5dc79569254199.pso
 engine\shaders\obj_d3d12\h19\pixel_c80594fbc366d499.pso
 engine\shaders\obj_d3d12\h19\pixel_cde425daf195db99.pso
+engine\shaders\obj_d3d12\h19\pixel_e70f18e1226cfd19.pso
 engine\shaders\obj_d3d12\h1a\pixel_76714190db33581a.pso
 engine\shaders\obj_d3d12\h1a\pixel_af6d4949174bbd9a.pso
 engine\shaders\obj_d3d12\h1b\compute_c4899a2cb5153e1b.cso
@@ -587,7 +590,9 @@ engine\shaders\obj_d3d12\h35\dependencies_fc3a8d4eddd671b5.dep
 engine\shaders\obj_d3d12\h35\pixel_1e80bc99c1cbe935.pso
 engine\shaders\obj_d3d12\h35\pixel_3ca25599c84d50b5.pso
 engine\shaders\obj_d3d12\h35\pixel_6ed424630f86ceb5.pso
+engine\shaders\obj_d3d12\h35\pixel_9ea7e37ac82197b5.pso
 engine\shaders\obj_d3d12\h35\pixel_afe147cee81ce435.pso
+engine\shaders\obj_d3d12\h35\pixel_f4122230a4a12335.pso
 engine\shaders\obj_d3d12\h36\compute_3379d04631de17b6.cso
 engine\shaders\obj_d3d12\h36\compute_a68db314cfd74cb6.cso
 engine\shaders\obj_d3d12\h36\compute_a97b365e89e0ef36.cso
@@ -709,6 +714,7 @@ engine\shaders\obj_d3d12\h4c\pixel_28856569f65dddcc.pso
 engine\shaders\obj_d3d12\h4c\pixel_4e0d3298016634c.pso
 engine\shaders\obj_d3d12\h4c\pixel_7955335b1eb8d2cc.pso
 engine\shaders\obj_d3d12\h4c\pixel_ef6ff89e6e31854c.pso
+engine\shaders\obj_d3d12\h4c\pixel_ff529b209b7f67cc.pso
 engine\shaders\obj_d3d12\h4d\dependencies_76213a82f1ff4ecd.dep
 engine\shaders\obj_d3d12\h4d\pixel_d9ce4f6c7d238d4d.pso
 engine\shaders\obj_d3d12\h4e\pixel_923c35d0632e24ce.pso
@@ -741,6 +747,7 @@ engine\shaders\obj_d3d12\h54\compute_d845f03eab148f54.cso
 engine\shaders\obj_d3d12\h54\dependencies_d818028f651f1d4.dep
 engine\shaders\obj_d3d12\h54\pixel_d628f102df7d5054.pso
 engine\shaders\obj_d3d12\h55\dependencies_904f24e9725c7155.dep
+engine\shaders\obj_d3d12\h55\dependencies_ad346eeb77a95ed5.dep
 engine\shaders\obj_d3d12\h55\pixel_29b6d73e0bef17d5.pso
 engine\shaders\obj_d3d12\h55\pixel_5b7f8f7fe710eb55.pso
 engine\shaders\obj_d3d12\h55\pixel_7fb6185d3db9d755.pso
@@ -773,6 +780,7 @@ engine\shaders\obj_d3d12\h5a\compute_132af42ba28edd5a.cso
 engine\shaders\obj_d3d12\h5a\compute_7af3ad82365a625a.cso
 engine\shaders\obj_d3d12\h5a\dependencies_3e1aa58e99d1ceda.dep
 engine\shaders\obj_d3d12\h5a\dependencies_9a964f84646fd7da.dep
+engine\shaders\obj_d3d12\h5a\dependencies_b27e37eac3e3695a.dep
 engine\shaders\obj_d3d12\h5a\dependencies_cfccc9d1b6a402da.dep
 engine\shaders\obj_d3d12\h5b\compute_ccdfa005187531db.cso
 engine\shaders\obj_d3d12\h5b\dependencies_708e30488122e05b.dep
@@ -896,6 +904,7 @@ engine\shaders\obj_d3d12\h72\dependencies_141a7dfe22bfae72.dep
 engine\shaders\obj_d3d12\h72\dependencies_639e61d680498172.dep
 engine\shaders\obj_d3d12\h72\pixel_b5f70cd41b4bbbf2.pso
 engine\shaders\obj_d3d12\h73\compute_1a167ad7c60d6573.cso
+engine\shaders\obj_d3d12\h73\dependencies_ba3323f7d535aaf3.dep
 engine\shaders\obj_d3d12\h73\pixel_6bd8688e7d956873.pso
 engine\shaders\obj_d3d12\h73\pixel_779acd8112f9f7f3.pso
 engine\shaders\obj_d3d12\h73\pixel_7a4642a2dc15a973.pso
@@ -922,6 +931,7 @@ engine\shaders\obj_d3d12\h78\pixel_9f235ea116d9fd78.pso
 engine\shaders\obj_d3d12\h78\pixel_d944648c2cf9b78.pso
 engine\shaders\obj_d3d12\h79\dependencies_a19a9495a3ce1f9.dep
 engine\shaders\obj_d3d12\h79\dependencies_b2bde8bc3b9c9279.dep
+engine\shaders\obj_d3d12\h79\pixel_2ece1eaacd009c79.pso
 engine\shaders\obj_d3d12\h79\pixel_c0bdb45859b47a79.pso
 engine\shaders\obj_d3d12\h7a\pixel_b6b8c10aac1dc0fa.pso
 engine\shaders\obj_d3d12\h7b\dependencies_ced2e12f934fc9fb.dep
@@ -2401,6 +2411,7 @@ graphics\characters\wd3\clothing\legs\ulc_skirtlynx00\female\legs_skirtlynx00_f.
 graphics\characters\wd3\clothing\legs\ulc_skirtlynx00\male\legs_skirtlynx00_m.animatedgeometry.nomad.bin
 graphics\characters\wd3\clothing\legs\ulc_skirtlynx00\male\legs_skirtlynx00_m.high.xbgmip
 graphics\characters\wd3\clothing\legs\ulc_skirtlynx00\male\legs_skirtlynx00_m.xbg
+graphics\characters\wd3\clothing\masks\maskhandmedown00\texture\mask_handmedown00_01.xbt
 graphics\characters\wd3\clothing\masks\maskhandmedown00\texture\mask_handmedown00_01_high.xbt
 graphics\characters\wd3\clothing\masks\maskhandmedown00\texture\mask_handmedown00_01_med.xbt
 graphics\characters\wd3\clothing\masks\maskhandmedown00\texture\mask_handmedown00_01_ultra.xbt
