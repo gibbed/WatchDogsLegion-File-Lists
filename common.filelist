@@ -1,4 +1,4 @@
-; 33627/34894 (96%)
+; 33644/34894 (96%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_audio.fzl
 aireactions\aireactions_animal_audio.fzl.debug
@@ -27081,6 +27081,10 @@ ui\fire\sources\textures\04_menu_apps\app_carsod\carsondemand_thumbnail\profiler
 ui\fire\sources\textures\04_menu_apps\app_carsod\carsondemand_thumbnail\profiler\img_forklift.xbt
 ui\fire\sources\textures\04_menu_apps\app_carsod\carsondemand_thumbnail\profiler\img_forklift_mini.xbt
 ui\fire\sources\textures\04_menu_apps\app_carsod\carsondemand_thumbnail\profiler\img_forklift_scissor.xbt
+ui\fire\sources\textures\04_menu_apps\app_carsod\cod_gradientbg.xbt
+ui\fire\sources\textures\04_menu_apps\app_carsod\cod_gradientbg_largetile.xbt
+ui\fire\sources\textures\04_menu_apps\app_carsod\cod_gradientbg_smalltile.xbt
+ui\fire\sources\textures\04_menu_apps\app_carsod\cod_gradientbg_smalltile_dark.xbt
 ui\fire\sources\textures\04_menu_apps\app_carsod\cod_paintgeneric.xbt
 ui\fire\sources\textures\04_menu_apps\app_carsod\cod_paintjobpreview_content.xbt
 ui\fire\sources\textures\04_menu_apps\app_carsod\cod_paintjobpreview_fx.xbt
@@ -27290,6 +27294,7 @@ ui\fire\sources\textures\04_menu_apps\app_tech\img_chevronsmall_on.xbt
 ui\fire\sources\textures\04_menu_apps\app_tech\img_equippedtile.xbt
 ui\fire\sources\textures\04_menu_apps\app_tech\img_tile_bg_acquired.xbt
 ui\fire\sources\textures\04_menu_apps\app_weaponondemand\elitebg_big.xbt
+ui\fire\sources\textures\04_menu_apps\app_weaponondemand\glitchybg.xbt
 ui\fire\sources\textures\04_menu_apps\app_weaponondemand\ime_equippedtile.xbt
 ui\fire\sources\textures\04_menu_apps\app_weaponondemand\largeglow.xbt
 ui\fire\sources\textures\04_menu_apps\app_weaponondemand\lockbg_big.xbt
@@ -28008,6 +28013,8 @@ ui\fire\sources\textures\gamehud\gh_phonecall\strip_bg.xbt
 ui\fire\sources\textures\gamehud\gh_profiler\transparent.xbt
 ui\fire\sources\textures\gamehud\gh_uplay\backleft.xbt
 ui\fire\sources\textures\gamehud\gh_uplay\backmiddle.xbt
+ui\fire\sources\textures\gamehud\gh_uplay\mvp_console_challenge_notification.xbt
+ui\fire\sources\textures\gamehud\gh_uplay\mvp_console_levelup_notification.xbt
 ui\fire\sources\textures\gamehud\gh_uplay\right.xbt
 ui\fire\sources\textures\gamehud\gh_uplay\unitsicon.xbt
 ui\fire\sources\textures\hud\hud_beekeeper\beekeeperaim.xbt
@@ -33080,12 +33087,22 @@ ui\fire\sources\textures\menu\pcwd2customizecontrol\swe.xbt
 ui\fire\sources\textures\menu\pcwd2customizecontrol\texture1.xbt
 ui\fire\sources\textures\menu\pcwd2customizecontrol\texture2.xbt
 ui\fire\sources\textures\nexus_items\credits\watchdogs_logo.xbt
+ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_010.xbt
+ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_011.xbt
+ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_012.xbt
+ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_013.xbt
+ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_014.xbt
 ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_05.xbt
 ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_06.xbt
+ui\fire\sources\textures\nexus_items\graffiti\locked\img_streetart_thumbnail_locked_09.xbt
 ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_01.xbt
 ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_02.xbt
 ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_03.xbt
 ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_04.xbt
+ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_05.xbt
+ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_06.xbt
+ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_07.xbt
+ui\fire\sources\textures\nexus_items\graffiti\unlocked\img_streetart_thumbnail_08.xbt
 ui\fire\sources\textures\nexus_items\indicator\nexus_enemy_caller.xbt
 ui\fire\sources\textures\nexus_items\indicator\nexus_enemy_elite.xbt
 ui\fire\sources\textures\nexus_items\indicator\nexus_enemy_heavy.xbt

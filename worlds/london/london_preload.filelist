@@ -1,4 +1,4 @@
-; 47055/94084 (50%)
+; 47095/94084 (50%)
 {fa5e98d1-9887-491b-ad84-7c250e55c299}
 animations\alertzone\a00-000-00_alert-zones-g2y-v00_mnpc_000f_unaware_rifle.mab
 animations\alertzone\a00-000-00_alert-zones-g2y-v00_mnpc_045l_unaware_rifle.mab
@@ -15830,6 +15830,33 @@ animations\lookat\b00-000-00_lookat-headonly-reaction-quick-up_mnpc_135l_norm_no
 animations\lookat\b00-000-00_lookat-headonly-reaction-quick-up_mnpc_135r_norm_nowep.mab
 animations\mad_pool\lean_bar\gen_f_lhdrink\f00-000-00_mad-lean-bar-gen-f-lhdrink-entry_fplyr_000f_norm_nowep.markup.bin
 animations\mad_pool\lean_bar\gen_m_lhdrink\f00-000-00_mad-lean-bar-gen-m-lhdrink-entry_mplyr_000f_norm_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-clo-entry_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-listen-reactnegative_fplyr_000f_angry_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-listen-reactnegative_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-listen-reactnegative_fplyr_000f_pessimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-listen-reactpositive_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-listen-reactpositive_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-accent-01_fplyr_000f_angry_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-accent-01_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-accent-01_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-indicateother-01_fplyr_000f_angry_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-indicateother-01_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-indicateother-01_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-indicateself-01_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-negativeremark-01_fplyr_000f_angry_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-negativeremark-01_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-offer-01_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-offer-01_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-positiveremark-01_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-gesture-talk-positiveremark-01_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-listen_fplyr_000f_angry_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-listen_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-listen_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-listen_fplyr_000f_pessimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-talk_fplyr_000f_angry_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-talk_fplyr_000f_neutral_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-talk_fplyr_000f_optimistic_nowep.markup.bin
+animations\mad_pool\sit_armchair\gen_f\f00-000-00_mad-sit-armchair-gen-f-talk_fplyr_000f_pessimistic_nowep.markup.bin
 animations\mad_pool\standing\generic\female\f00-000-00_mad-stand-gen-fm-angry-talk_fplyr_000f_angry_nowep.markup.bin
 animations\mad_pool\standing\generic\female\f00-000-00_mad-stand-gen-fm-gesture-surprise-left-01_fplyr_000f_neutral_nowep.markup.bin
 animations\mad_pool\standing\generic\female\f00-000-00_mad-stand-gen-fm-gesture-surprise-right-01_fplyr_000f_neutral_nowep.markup.bin
@@ -17942,6 +17969,18 @@ animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackers
 animations\scriptedevents\narrative\clo\hackerspace_mainspace\f00-000-00_hackerspace-mainspace-start-railing-generic_mplyr.markup.bin
 animations\scriptedevents\narrative\scenes\gst_005_s010_hyb_pub\f00-000-00_gst-005-s010-hyb-pub-gen_mplyr.markup.bin
 animations\scriptedevents\narrative\scenes\gst_005_s010_hyb_pub\f00-000-00_gst-005-s010-hyb-pub-slot1-gen_mplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_101_s010_oswp_cryptophone\f00-000-00_cin-hyb-opl-101-s010-oswp-cryptophone-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_101_s110_hyb_malik_free\f00-000-00_cin-hyb-opl-101-s110-hyb-malik-free-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_101_s110_hyb_malik_free\f00-000-00_cin-hyb-opl-101-s110-hyb-malik-free-slot1-kingmaker_mnpc.markup.bin
+animations\scriptedevents\narrative\scenes\opl_103_s020_hyb_malik_needle\f00-000-00_cin-hyb-opl-103-s020-malik-needle-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_103_s020_hyb_malik_needle\f00-000-00_cin-hyb-opl-103-s020-malik-needle-slot1-kingmaker_mnpc.markup.bin
+animations\scriptedevents\narrative\scenes\opl_104_s010_hyb_malik_meeting\f00-000-00_cin-hyb-opl-104-s010-malik-meeting-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_104_s010_hyb_malik_meeting\f00-000-00_cin-hyb-opl-104-s010-malik-meeting-slot1-kingmaker_mnpc.markup.bin
+animations\scriptedevents\narrative\scenes\opl_105_s050_hyb_smart_glass\f00-000-00_cin-hyb-opl-105-s050-smart-glass-slot0-gen_mplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_105_s050_hyb_smart_glass\f00-000-00_cin-hyb-opl-105-s050-smart-glass-slot1-emmachild_fnpc.markup.bin
+animations\scriptedevents\narrative\scenes\opl_106_s060_hyb_emb_exp\f00-000-00_cin-hyb-opl-106-s060-embassy-explosion-slot0-gen_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_118_s200_tkr_captive_malik\f00-000-00_opl-118-s00-tkr-captive-malik-gen-start_fplyr.markup.bin
+animations\scriptedevents\narrative\scenes\opl_118_s200_tkr_captive_malik\f00-000-00_opl-118-s00-tkr-captive-malik-malik-start_mnpc.markup.bin
 animations\scriptedevents\narrative\scenes\opl_205_s030_hyb_nowt_doubts\f00-000-00_cin-hyb-opl-205-s030-nowt-doubts-slot1-nowt_fnpc.markup.bin
 animations\scriptedevents\narrative\scenes\opl_209_estate_elevatorout\f00-000-00_opl-209-s360-tkr-nowt-outro-slot0-gen_fplyr.markup.bin
 animations\scriptedevents\narrative\scenes\opl_209_estate_elevatorout\f00-000-00_opl-209-s360-tkr-nowt-outro-slot1-nowt_fnpc.markup.bin
@@ -27207,6 +27246,7 @@ graphics\_texture\base\generic\plastic\rubber_roof_01_albedo.xbt
 graphics\_texture\base\generic\plastic\rubber_roof_01_brdf.xbt
 graphics\_texture\base\generic\rock\rock_gravel_01_albedo.xbt
 graphics\_texture\base\generic\rock\rock_gravel_01_brdf.xbt
+graphics\_texture\base\generic\water\water_caustics_bvi_d.xbt
 graphics\_texture\base\generic\wood\plywood_01_c.xbt
 graphics\_texture\base\generic\wood\plywood_01_dirty_01_c.xbt
 graphics\_texture\base\generic\wood\plywood_01_n.xbt

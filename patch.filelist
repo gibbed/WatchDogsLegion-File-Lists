@@ -1,4 +1,4 @@
-; 3487/32239 (10%)
+; 3490/32239 (10%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_gameplay.fzl
 aireactions\aireactions_human_animation.fzl
@@ -564,6 +564,7 @@ engine\shaders\obj_d3d12\h31\compute_23f518aada01a9b1.cso
 engine\shaders\obj_d3d12\h31\compute_47fb58f3c49c8a31.cso
 engine\shaders\obj_d3d12\h31\pixel_1b26112ddd0781b1.pso
 engine\shaders\obj_d3d12\h31\pixel_230dba4f0a698d31.pso
+engine\shaders\obj_d3d12\h31\pixel_735205252102db31.pso
 engine\shaders\obj_d3d12\h31\pixel_bbcd52eb058fab31.pso
 engine\shaders\obj_d3d12\h31\pixel_f280367957fd9231.pso
 engine\shaders\obj_d3d12\h31\raytrace_36cbbfe7a8d4ec31.rtso
@@ -651,6 +652,7 @@ engine\shaders\obj_d3d12\h42\compute_dc402bd64b3d26c2.cso
 engine\shaders\obj_d3d12\h42\pixel_30cd4b9dc18048c2.pso
 engine\shaders\obj_d3d12\h42\pixel_5a825c2670994c42.pso
 engine\shaders\obj_d3d12\h42\pixel_bd3d1d0309e426c2.pso
+engine\shaders\obj_d3d12\h43\dependencies_fb44f3fd040a0d43.dep
 engine\shaders\obj_d3d12\h43\pixel_3236bd0ec55eb8c3.pso
 engine\shaders\obj_d3d12\h43\pixel_4d902b80bfe249c3.pso
 engine\shaders\obj_d3d12\h43\pixel_7f3d5b82b34c6143.pso
@@ -813,6 +815,7 @@ engine\shaders\obj_d3d12\h61\dependencies_23ae289a66186ae1.dep
 engine\shaders\obj_d3d12\h61\dependencies_90026fc36b43ce1.dep
 engine\shaders\obj_d3d12\h61\dependencies_a7d17519ff119961.dep
 engine\shaders\obj_d3d12\h61\dependencies_f1ca0b230b507561.dep
+engine\shaders\obj_d3d12\h61\pixel_ab10f870dc3808e1.pso
 engine\shaders\obj_d3d12\h61\pixel_b981d793bee288e1.pso
 engine\shaders\obj_d3d12\h61\pixel_c7facb1324b26961.pso
 engine\shaders\obj_d3d12\h62\compute_dfb9486c036dd7e2.cso
