@@ -1,4 +1,4 @@
-; 37/43 (86%)
+; 41/43 (95%)
 graphics\bink\wd3_fullscreen\_generic_staticdownload_fs.bik
 graphics\bink\wd3_fullscreen\bum_110_vid_celebration_fs.bik
 graphics\bink\wd3_fullscreen\bum_210_vid_celebration_fs.bik
@@ -10,10 +10,13 @@ graphics\bink\wd3_fullscreen\bum_710_vid_celebration_fs.bik
 graphics\bink\wd3_fullscreen\bum_810_vid_celebration_fs.bik
 graphics\bink\wd3_fullscreen\generic_vid_elevatortransition_up_fs.bik
 graphics\bink\wd3_fullscreen\gst_001_s010_vid_parliament_fs.bik
+graphics\bink\wd3_fullscreen\gst_001_s011_vid_parliament_inside.bik
 graphics\bink\wd3_fullscreen\gst_001_s060_vid_detonator_pt_1.bik
 graphics\bink\wd3_fullscreen\gst_001_s060_vid_detonator_pt_2.bik
 graphics\bink\wd3_fullscreen\gst_001_s100_vid_rooftop_fs.bik
 graphics\bink\wd3_fullscreen\gst_001_s110_vid_news_montage_fs.bik
+graphics\bink\wd3_fullscreen\gst_001_vid_character_selection_fs.bik
+graphics\bink\wd3_fullscreen\gst_001_vid_into_open_world_fs.bik
 graphics\bink\wd3_fullscreen\gst_002_s010_vid_sabine_fs.bik
 graphics\bink\wd3_fullscreen\gst_002_s020_vid_londonmap_fs.bik
 graphics\bink\wd3_fullscreen\gst_002_s052_vid_booting_network_fs.bik
@@ -27,6 +30,7 @@ graphics\bink\wd3_fullscreen\opl_108_s170_vid_filament_malik_fs.bik
 graphics\bink\wd3_fullscreen\opl_205_s120_vid_toan_talk_fs.bik
 graphics\bink\wd3_fullscreen\opl_315_s110_vid_nigel_meeting_fs.bik
 graphics\bink\wd3_fullscreen\opl_322_s120_vid_nanoaccesspoint_fs_part2.bik
+graphics\bink\wd3_fullscreen\opl_505_s060_vid_dalton_log_fs.bik
 graphics\bink\wd3_fullscreen\opl_505_s060_vid_kaitlin_log_fs.bik
 graphics\bink\wd3_fullscreen\opl_506_s031_vid_zeroday_taunt_fs.bik
 graphics\bink\wd3_fullscreen\opl_506_s175_vid_sabinecass_new_fs.bik
