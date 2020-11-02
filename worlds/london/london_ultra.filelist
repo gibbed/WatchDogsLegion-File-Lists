@@ -1,4 +1,4 @@
-; 13822/13881 (99%)
+; 13875/13881 (99%)
 graphics\_geometries\vegetation\_textures\decals\jacaranda_petal_decal_c_ultra.xbt
 graphics\_geometries\vegetation\_textures\decals\jacaranda_petal_decal_n_ultra.xbt
 graphics\_geometries\vegetation\_textures\decals\jacaranda_petal_decal_s_ultra.xbt
@@ -499,6 +499,7 @@ graphics\_texture\base\generic\concrete\concrete_floor_pattern_01_n_ultra.xbt
 graphics\_texture\base\generic\concrete\concrete_floor_pattern_01_s_ultra.xbt
 graphics\_texture\base\generic\concrete\concrete_floor_pattern_trim_01_c_ultra.xbt
 graphics\_texture\base\generic\concrete\concrete_floor_pattern_trim_01_n_ultra.xbt
+graphics\_texture\base\generic\concrete\concrete_floor_pattern_trim_01_s_ultra.xbt
 graphics\_texture\base\generic\concrete\concrete_floor_polished_01_c_ultra.xbt
 graphics\_texture\base\generic\concrete\concrete_floor_polished_01_n_ultra.xbt
 graphics\_texture\base\generic\concrete\concrete_floor_polished_01_s_ultra.xbt
@@ -889,6 +890,7 @@ graphics\_texture\base\generic\generic_unique\rammer_construction_01_s_ultra.xbt
 graphics\_texture\base\generic\generic_unique\roof_tile_01_c_ultra.xbt
 graphics\_texture\base\generic\generic_unique\roof_tile_01_n_ultra.xbt
 graphics\_texture\base\generic\generic_unique\roof_tile_01_s_ultra.xbt
+graphics\_texture\base\generic\generic_unique\rotherithe_tunnel_entrance_01_albedo_ultra.xbt
 graphics\_texture\base\generic\generic_unique\rotherithe_tunnel_entrance_01_brdf_ultra.xbt
 graphics\_texture\base\generic\generic_unique\sidewalk_concrete_block_strip_01_c_ultra.xbt
 graphics\_texture\base\generic\generic_unique\sidewalk_concrete_block_strip_01_h_ultra.xbt
@@ -2406,11 +2408,15 @@ graphics\_texture\branding\borough\lambeth\lam_britishtheater_branding_square_01
 graphics\_texture\branding\borough\lambeth\lam_britishtheater_branding_square_01_s_ultra.xbt
 graphics\_texture\branding\borough\lambeth\lam_ministryofsound_int_screen_surveillance_big_3x3_01_flipbook_01_c_ultra.xbt
 graphics\_texture\branding\borough\lambeth\lam_waterlooplaza_billboard_01_c_ultra.xbt
+graphics\_texture\branding\borough\lambeth\poster_ad_britishtheater_01_c_ultra.xbt
+graphics\_texture\branding\borough\lambeth\poster_ad_britishtheater_02_c_ultra.xbt
+graphics\_texture\branding\borough\lambeth\poster_ad_britishtheater_03_c_ultra.xbt
 graphics\_texture\branding\borough\southwark\decal_sou_guyshospital_01_c_ultra.xbt
 graphics\_texture\branding\borough\southwark\decal_sou_rotherhithedocks_01_c_ultra.xbt
 graphics\_texture\branding\borough\southwark\sou_bus_depot_poster_01_c_ultra.xbt
 graphics\_texture\branding\borough\southwark\sou_bus_depot_poster_02_c_ultra.xbt
 graphics\_texture\branding\borough\southwark\sou_bus_depot_poster_03_c_ultra.xbt
+graphics\_texture\branding\borough\southwark\sou_sign_incinerator_01_c_ultra.xbt
 graphics\_texture\branding\borough\tower_hamlets_west\thw_boxpark_billboard_03_c_ultra.xbt
 graphics\_texture\branding\borough\westminster\westminster_crest_01\westminster_crest_01_c_ultra.xbt
 graphics\_texture\branding\borough\westminster\westminster_crest_01\westminster_crest_01_n_ultra.xbt
@@ -2436,20 +2442,26 @@ graphics\_texture\branding\generic\advertising\fp_branding_ads_static02_trans_c_
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_allinwins_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_allinwins_02_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_bankside_playhouse_01_c_ultra.xbt
+graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_british_theatre_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_broca_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_cyber_driver_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_etobank_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_etobank_02_c_ultra.xbt
+graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_film_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_film_02_c_ultra.xbt
+graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_focus32_01_c_ultra.xbt
+graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_loans_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_london_wheel_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_maikel_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_national_gallery_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_quanta_01_c_ultra.xbt
+graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_quanta_02_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_records_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_regalia_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_rollroll_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_spicysubs_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_staroger_01_c_ultra.xbt
+graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_suicide_02_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_tone_01_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_tone_02_c_ultra.xbt
 graphics\_texture\branding\generic\advertising\generic_posters\poster_company_01_verdun_01_c_ultra.xbt
@@ -2616,6 +2628,7 @@ graphics\_texture\branding\generic\shops\foodtown\isha_foodtown_kiosk_kit_01_neo
 graphics\_texture\branding\generic\shops\foodtown\isha_foodtown_kiosk_kit_01_sign_01_dimsum_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\foodtown\pizza_box_01_foodtown_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\freightone\freight_arrows_01_c_ultra.xbt
+graphics\_texture\branding\generic\shops\freightone\freight_floorpatern_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\freightone\freight_floorplan_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\freightone\freight_info_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\freightone\freight_storename_accessories_01_albedo_ultra.xbt
@@ -2642,6 +2655,7 @@ graphics\_texture\branding\generic\shops\g3m\decal_window_g3m_02_c_ultra.xbt
 graphics\_texture\branding\generic\shops\g3m\decal_window_g3m_03_c_ultra.xbt
 graphics\_texture\branding\generic\shops\g3m\sign_logo_g3m_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\hattai\decal_glass_smart_01_hattai_01_c_ultra.xbt
+graphics\_texture\branding\generic\shops\hattai\decal_mural_hattai_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\hattai\decal_mural_hattai_02_c_ultra.xbt
 graphics\_texture\branding\generic\shops\hattai\door_hattai_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\hattai\shop_shell_streetwear_independent_02_c_ultra.xbt
@@ -3488,6 +3502,7 @@ graphics\_texture\branding\generic\shops\pubs\sign_hanging_hawker_boys_01_albedo
 graphics\_texture\branding\generic\shops\pubs\sign_hanging_hawker_boys_01_brdf_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_hanging_hawker_boys_01_s_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_hanging_songs_barley_01_albedo_ultra.xbt
+graphics\_texture\branding\generic\shops\pubs\sign_hanging_whitebeer_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_hanging_whitebeer_01_n_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_hanging_whitebeer_01_s_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_menu_drowning_post_01_c_ultra.xbt
@@ -3501,12 +3516,15 @@ graphics\_texture\branding\generic\shops\pubs\sign_wall_cherry_tree_02_albedo_ul
 graphics\_texture\branding\generic\shops\pubs\sign_wall_cherry_tree_02_brdf_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_cherry_tree_03_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_cherry_tree_03_brdf_ultra.xbt
+graphics\_texture\branding\generic\shops\pubs\sign_wall_concubines_wail_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_concubines_wail_02_c_ultra.xbt
+graphics\_texture\branding\generic\shops\pubs\sign_wall_concubines_wail_03_c_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_concubines_wail_03_n_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_01_brdf_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_02_c_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_02_n_ultra.xbt
+graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_02_s_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_03_c_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_03_n_ultra.xbt
 graphics\_texture\branding\generic\shops\pubs\sign_wall_drowning_post_03_s_ultra.xbt
@@ -3585,6 +3603,7 @@ graphics\_texture\branding\generic\shops\staroger\staroger_poster_03_albedo_ultr
 graphics\_texture\branding\generic\shops\staroger\staroger_poster_04_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\staroger\staroger_poster_05_c_ultra.xbt
 graphics\_texture\branding\generic\shops\staroger\staroger_poster_atlas_01_albedo_ultra.xbt
+graphics\_texture\branding\generic\shops\staroger\staroger_poster_atlas_01_dirty_c_ultra.xbt
 graphics\_texture\branding\generic\shops\staroger\staroger_window_decal_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\staroger\staroger_window_decal_01_dirty_c_ultra.xbt
 graphics\_texture\branding\generic\shops\subs\sign_3d_subs_01_c_ultra.xbt
@@ -3623,6 +3642,7 @@ graphics\_texture\branding\generic\shops\travell\sign_logo_travell_01_c_ultra.xb
 graphics\_texture\branding\generic\shops\travell\window_travell_06_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\treble\awning_wood_large_treble_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\treble\awning_wood_medium_treble_01_albedo_ultra.xbt
+graphics\_texture\branding\generic\shops\treble\awning_wood_small_treble_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\shops\treble\awning_wood_treble_kit_01_brdf_ultra.xbt
 graphics\_texture\branding\generic\shops\treble\decal_glass_smart_01_trebble_01_c_ultra.xbt
 graphics\_texture\branding\generic\shops\treble\door_treble_01_c_ultra.xbt
@@ -3687,6 +3707,7 @@ graphics\_texture\branding\generic\signage\decal_text_closedshop_random_01_c_ult
 graphics\_texture\branding\generic\signage\facilities\batter_sea_powerstation_at_bg_01_c_ultra.xbt
 graphics\_texture\branding\generic\signage\facilities\batter_sea_powerstation_at_fg_01_c_ultra.xbt
 graphics\_texture\branding\generic\signage\next_london\next_london_banner_02_c_ultra.xbt
+graphics\_texture\branding\generic\signage\old_barley_mill\sign_wall_old_barley_mill_01_c_ultra.xbt
 graphics\_texture\branding\generic\signage\protest\decal_shop_01_antifa_poster_01_albedo_ultra.xbt
 graphics\_texture\branding\generic\signage\protest\decal_shop_01_antifa_poster_02_albedo_ultra.xbt
 graphics\_texture\branding\generic\signage\protest\decal_shop_01_antifa_poster_03_albedo_ultra.xbt
@@ -3743,6 +3764,7 @@ graphics\_texture\branding\generic\signage\sign_shop_closed_tolet_7m_01_c_ultra.
 graphics\_texture\branding\generic\signage\thames\sign_thames_landing_01_c_ultra.xbt
 graphics\_texture\branding\generic\signage\thames\sign_thames_landing_01_n_ultra.xbt
 graphics\_texture\branding\generic\signage\thames\sign_thames_landing_01_s_ultra.xbt
+graphics\_texture\branding\generic\signage\truman\trumanchimey_decal_01_c_ultra.xbt
 graphics\_texture\branding\generic\signage\urban_posters\urban_posters_group_hor_01_c_ultra.xbt
 graphics\_texture\branding\generic\signage\urban_posters\urban_posters_group_hor_02_c_ultra.xbt
 graphics\_texture\branding\generic\signage\urban_posters\urban_posters_group_square_01_c_ultra.xbt
@@ -3848,6 +3870,7 @@ graphics\_texture\branding\majorbrands\government\albn_propagandaad_vert_04_c_ul
 graphics\_texture\branding\majorbrands\government\albn_propagandaad_vert_05_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\albn_propagandaad_vert_06_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\albn_recruitingad_horiz_01_c_ultra.xbt
+graphics\_texture\branding\majorbrands\government\albn_recruitingad_horiz_02_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\albn_recruitingad_vert_02_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\albn_recruitingad_vert_02_pol_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\albn_recruitingad_vert_03_c_ultra.xbt
@@ -3899,6 +3922,7 @@ graphics\_texture\branding\majorbrands\government\gov_secureldn_watcher_vert_01_
 graphics\_texture\branding\majorbrands\government\gov_secureldn_watcher_vert_02_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\metpolice_poster_a_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\metpolice_poster_c_c_ultra.xbt
+graphics\_texture\branding\majorbrands\government\metpolice_supportposters_01_vert_01_c_ultra.xbt
 graphics\_texture\branding\majorbrands\government\metpolice_supportposters_01_vert_02_c_ultra.xbt
 graphics\_texture\branding\majorbrands\kellyclan\decal_kellyclan_crest_01_albedo_ultra.xbt
 graphics\_texture\branding\majorbrands\kellyclan\decal_kellyclan_crest_01_brdf_ultra.xbt
@@ -4128,6 +4152,7 @@ graphics\_texture\branding\street_art\projected\murals\decal_mural_mtl_20c_c_ult
 graphics\_texture\branding\street_art\projected\murals\decal_mural_par_04a_c_ultra.xbt
 graphics\_texture\branding\street_art\projected\murals\decal_mural_par_04b_c_ultra.xbt
 graphics\_texture\branding\street_art\projected\murals\decal_mural_par_05_c_ultra.xbt
+graphics\_texture\branding\street_art\projected\murals\decal_mural_par_05b_c_ultra.xbt
 graphics\_texture\branding\street_art\projected\murals\decal_mural_par_06a_c_ultra.xbt
 graphics\_texture\branding\street_art\projected\murals\decal_mural_par_06b_c_ultra.xbt
 graphics\_texture\branding\street_art\projected\murals\decal_mural_par_07_c_ultra.xbt
@@ -5314,6 +5339,7 @@ graphics\_texture\gameplay_ingredients\worldactivities\generic_world_toys\itunne
 graphics\_texture\gameplay_ingredients\worldactivities\glass_beer_liquid_01_c_ultra.xbt
 graphics\_texture\gameplay_ingredients\worldactivities\lam_londoneye_flipbook_c_ultra.xbt
 graphics\_texture\gameplay_ingredients\worldactivities\londoneye\lam_londoneye_exterior_wheel_lights_01_e_ultra.xbt
+graphics\_texture\gameplay_ingredients\worldactivities\nextlondon\emissive_cityhall_branding_02_c_ultra.xbt
 graphics\_texture\gameplay_ingredients\worldactivities\nextlondon\emissive_cityhall_branding_03_c_ultra.xbt
 graphics\_texture\gameplay_ingredients\worldactivities\nine_elms_tower_emissive_active_01_e_ultra.xbt
 graphics\_texture\gameplay_ingredients\worldactivities\relics\relic_book_01_albedo_ultra.xbt
@@ -8429,6 +8455,7 @@ graphics\_texture\geometry\interior\assets\generic\int_shelf_unit_tech_01_brdf_u
 graphics\_texture\geometry\interior\assets\generic\int_statue_dog_gold_02_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\generic\int_statue_dog_gold_02_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\generic\int_statue_dog_gold_03_albedo_ultra.xbt
+graphics\_texture\geometry\interior\assets\generic\int_stock_ticker_01_c_ultra.xbt
 graphics\_texture\geometry\interior\assets\generic\int_stool_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\generic\int_stool_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\generic\int_vase_flowerbouquet_01_c_ultra.xbt
@@ -8490,6 +8517,7 @@ graphics\_texture\geometry\interior\assets\hackerspace\int_sink_old_01_albedo_ul
 graphics\_texture\geometry\interior\assets\hackerspace\int_sink_old_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\hackerspace\int_stool_wood_old_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\hackerspace\int_stool_wood_old_01_brdf_ultra.xbt
+graphics\_texture\geometry\interior\assets\hackerspace\privatepub\col_fishmongerhall_curtain_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\hackerspace\privatepub\col_fishmongerhall_trim_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\hackerspace\privatepub\col_fishmongerhall_trim_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\hackerspace\privatepub\col_hackerspace_interiorprop_barshelves_01_albedo_ultra.xbt
@@ -8514,6 +8542,7 @@ graphics\_texture\geometry\interior\assets\hospital\int_medical_equipments_scree
 graphics\_texture\geometry\interior\assets\industrial\cardboard_01_c_ultra.xbt
 graphics\_texture\geometry\interior\assets\industrial\cardboard_01_n_ultra.xbt
 graphics\_texture\geometry\interior\assets\industrial\cardboard_01_s_ultra.xbt
+graphics\_texture\geometry\interior\assets\industrial\emissive_int_machine_industrial_01_c_ultra.xbt
 graphics\_texture\geometry\interior\assets\industrial\int_3dprinter_small_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\industrial\int_3dprinter_small_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\industrial\int_cabinet_antique_01_albedo_ultra.xbt
@@ -8574,6 +8603,7 @@ graphics\_texture\geometry\interior\assets\iop\bombmaker\int_bombkit_01_alpha_ul
 graphics\_texture\geometry\interior\assets\iop\bombmaker\int_bombkit_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\assets\iop\bombmaker\int_chemlab_bottles_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\iop\bombmaker\int_chemlab_bottles_01_brdf_ultra.xbt
+graphics\_texture\geometry\interior\assets\iop\cinema\int_cinema_posters_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\iop\filmreel_01_a_ultra.xbt
 graphics\_texture\geometry\interior\assets\iop\filmreel_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\assets\iop\filmreel_01_brdf_ultra.xbt
@@ -8995,6 +9025,7 @@ graphics\_texture\geometry\interior\structures\pub\drowningpost_floormat_01_deca
 graphics\_texture\geometry\interior\structures\pub\int_floor_hardwood_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\int_floor_hardwood_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\int_pub_glass_stained_01_a_albedo_ultra.xbt
+graphics\_texture\geometry\interior\structures\pub\int_pub02_mural_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\int_rug_01_n_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\int_wood_floor_pub_02_a_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\int_wood_floor_pub_02_a_brdf_ultra.xbt
@@ -9024,6 +9055,7 @@ graphics\_texture\geometry\interior\structures\pub\pub_carpet_06_albedo_ultra.xb
 graphics\_texture\geometry\interior\structures\pub\pub_carpet_06_brdf_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub_chalkboard_01_a_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub_chalkboard_01_a_brdf_ultra.xbt
+graphics\_texture\geometry\interior\structures\pub\pub_chalkboard_01_b_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub_chalkboard_01_c_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub_chalkboard_01_d_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub_chalkboard_01_e_albedo_ultra.xbt
@@ -9042,6 +9074,7 @@ graphics\_texture\geometry\interior\structures\pub\pub05_floor_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub05_floor_01_n_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\pub06_decal_01_c_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\stair_railing_ornate_01_c_ultra.xbt
+graphics\_texture\geometry\interior\structures\pub\stair_railing_ornate_01_n_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\tiles_floor_01_albedo_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\tiles_floor_01_brdf_ultra.xbt
 graphics\_texture\geometry\interior\structures\pub\tiles_floor_02_albedo_ultra.xbt
@@ -9426,6 +9459,7 @@ graphics\_texture\geometry\landmarks\hackney\isha_villageunderground_traintube_0
 graphics\_texture\geometry\landmarks\hackney\isha_villageunderground_traintube_01_02_brdf_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\isha_villageunderground_traintube_01_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\isha_villageunderground_traintube_01_brdf_ultra.xbt
+graphics\_texture\geometry\landmarks\hackney\sign_clapboard_01_isha_hackneycityfarm_02_c_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\sign_wood_isha_hackneycityfarm_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\sign_wood_isha_hackneycityfarm_02_c_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\sign_wood_isha_hackneycityfarm_03_c_ultra.xbt
@@ -9435,6 +9469,7 @@ graphics\_texture\geometry\landmarks\hackney\statue_woman_01_brdf_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\statue_woman_01_n_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\statue_woman_02_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\statue_woman_02_brdf_ultra.xbt
+graphics\_texture\geometry\landmarks\hackney\suleymaniye_mosque_entrance_01_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\suleymaniye_mosque_entrance_01_brdf_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\suleymaniye_mosque_tower_01_s_ultra.xbt
 graphics\_texture\geometry\landmarks\hackney\suleymaniye_mosque_window_01_c_ultra.xbt
@@ -9623,6 +9658,7 @@ graphics\_texture\geometry\landmarks\islington_hackney\newriverhead\isha_riverhe
 graphics\_texture\geometry\landmarks\islington_hackney\newriverhead\isha_riverhead_wall_frame_painting_01_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\islington_hackney\newriverhead\isha_riverhead_wall_frame_painting_02_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\islington_hackney\newriverhead\isha_riverhead_wall_frame_painting_03_albedo_ultra.xbt
+graphics\_texture\geometry\landmarks\islington_hackney\shoreditch\decal_isha_mural_tropical_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\islington_hackney\shoreditch\isha_infrastructure_wood_color_kit_01_e_ultra.xbt
 graphics\_texture\geometry\landmarks\islington_hackney\shoreditch\isha_wood_planks_colored_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\islington_hackney\shoreditch\isha_wood_planks_colored_01_n_ultra.xbt
@@ -9690,6 +9726,7 @@ graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_f
 graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_fabric_hanging_02_c_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_fabric_hanging_02_n_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_fabric_hanging_02_s_ultra.xbt
+graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_planter_kit_01_branding_01_e_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_planter_kit_01_electronic_01_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_planter_kit_01_electronic_01_brdf_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\brixton\popbrixton\lam_popbrixton_pole_sign_01_albedo_ultra.xbt
@@ -9740,6 +9777,7 @@ graphics\_texture\geometry\landmarks\lambeth\lambeth\mi6\interior\lam_mi6sisbuil
 graphics\_texture\geometry\landmarks\lambeth\lambeth\mi6\interior\lam_mi6sisbuilding_quantumserver_01_e_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\lambeth\mi6\interior\lam_mi6sisbuilding_quantumserver_01_n_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\lambeth\mi6\interior\lam_mi6sisbuilding_quantumserver_01_s_ultra.xbt
+graphics\_texture\geometry\landmarks\lambeth\lambeth\mi6\lam_mi6_brainwashing_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\decal_lam_stgeorgescircus_obelisk_01_a_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\decal_lam_stgeorgescircus_obelisk_01_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\decal_lam_stgeorgescircus_obelisk_01_brdf_ultra.xbt
@@ -9802,6 +9840,10 @@ graphics\_texture\geometry\landmarks\lambeth\southbank\lam_waterloostation_01_br
 graphics\_texture\geometry\landmarks\lambeth\southbank\lam_xcess_smartglass_01__c_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\lam_xcess_smartglass_01__n_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\lam_xcess_smartglass_logo_01_c_ultra.xbt
+graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_roof_01_c_ultra.xbt
+graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_roof_01_s_ultra.xbt
+graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_roof_small_01_c_ultra.xbt
+graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_roof_small_01_s_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_wall_01_s_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_wall_02_s_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\southbank\leakestreet_decal_wall_small_01_s_ultra.xbt
@@ -9860,6 +9902,9 @@ graphics\_texture\geometry\landmarks\lambeth\stockwell\railroad\decal_lam_railro
 graphics\_texture\geometry\landmarks\lambeth\stockwell\railroad\decal_lam_railroadwarehouse_wall_paint_02b__c_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\stockwell\railroad\decal_lam_railroadwarehouse_wall_paint_02b__s_ultra.xbt
 graphics\_texture\geometry\landmarks\lambeth\stockwell\railroad\decal_lam_railroadwarehouse_wall_paint_03__c_ultra.xbt
+graphics\_texture\geometry\landmarks\southwark\auto_garage\sou_auto_conversions_banner_01_c_ultra.xbt
+graphics\_texture\geometry\landmarks\southwark\auto_garage\sou_auto_conversions_poster_01_c_ultra.xbt
+graphics\_texture\geometry\landmarks\southwark\auto_garage\sou_auto_conversions_poster_02_c_ultra.xbt
 graphics\_texture\geometry\landmarks\southwark\auto_garage\sou_auto_conversions_sign_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\southwark\auto_garage\sou_carlift_kit_01_02_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\southwark\auto_garage\sou_carlift_kit_01_02_brdf_ultra.xbt
@@ -9980,6 +10025,7 @@ graphics\_texture\geometry\landmarks\tower_hamlets_west\thw_fenchurch_panels_01_
 graphics\_texture\geometry\landmarks\tower_hamlets_west\thw_whitechapel_tube_roof_01_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\tower_hamlets_west\thw_whitechapel_tube_roof_01_brdf_ultra.xbt
 graphics\_texture\geometry\landmarks\tower_hamlets_west\tower_of_london\decal_thw_toweroflondon_brick_blocks_trims_01_c_ultra.xbt
+graphics\_texture\geometry\landmarks\tower_hamlets_west\tower_of_london\decal_thw_toweroflondon_brick_blocks_trims_01_n_ultra.xbt
 graphics\_texture\geometry\landmarks\tower_hamlets_west\tower_of_london\decal_thw_toweroflondon_brick_blocks_trims_01_s_ultra.xbt
 graphics\_texture\geometry\landmarks\tower_hamlets_west\tower_of_london\decal_thw_toweroflondon_concrete_patches_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\tower_hamlets_west\tower_of_london\decal_thw_toweroflondon_concrete_patches_01_n_ultra.xbt
@@ -10093,8 +10139,11 @@ graphics\_texture\geometry\landmarks\wandsworth\autonomouswarehouse\wan_autonomo
 graphics\_texture\geometry\landmarks\wandsworth\autonomouswarehouse\wan_autonomous_winch_01_brdf_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\battersea\hma\wan_mannequin_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\int_pc_monitor_01_parcelfox_01_anime_albedo_ultra.xbt
+graphics\_texture\geometry\landmarks\wandsworth\int_pc_monitor_01_parcelfox_03_anime_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\int_pc_monitor_01_parcelfox_04_anime_albedo_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\int_pc_monitor_01_parcelfox_05_anime_albedo_ultra.xbt
+graphics\_texture\geometry\landmarks\wandsworth\wan_battersea_banner_c_ultra.xbt
+graphics\_texture\geometry\landmarks\wandsworth\wan_battersea_banner_c2_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\wan_battersea_plan_c_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\wan_battersea_poster_01_c_ultra.xbt
 graphics\_texture\geometry\landmarks\wandsworth\wan_battersea_poster_02_c_ultra.xbt
@@ -10402,6 +10451,7 @@ graphics\_texture\geometry\lkl\blume\assets\blume_equipment_covered_large_01_brd
 graphics\_texture\geometry\lkl\blume\assets\blume_plastic_tarp_01_albedo_ultra.xbt
 graphics\_texture\geometry\lkl\blume\assets\blume_plastic_tarp_01_brdf_ultra.xbt
 graphics\_texture\geometry\lkl\blume\assets\blume_server_cabinet_01_c_ultra.xbt
+graphics\_texture\geometry\lkl\blume\assets\skye_medical_hologram_01_c_ultra.xbt
 graphics\_texture\geometry\lkl\blume\blume_ai_device_detail_trim_01_c_ultra.xbt
 graphics\_texture\geometry\lkl\blume\blume_ai_device_detail_trim_01_e_ultra.xbt
 graphics\_texture\geometry\lkl\blume\blume_ai_device_detail_trim_01_n_ultra.xbt
@@ -10794,6 +10844,7 @@ graphics\_texture\lights\emissive_unique\emissive_awning_jacobus_01_c_ultra.xbt
 graphics\_texture\lights\emissive_unique\emissive_e3_oob_02_c_ultra.xbt
 graphics\_texture\lights\emissive_unique\emissive_entrance_tube_modern_01_c_ultra.xbt
 graphics\_texture\lights\emissive_unique\emissive_event_entrance_scaffold_02_c_ultra.xbt
+graphics\_texture\lights\emissive_unique\emissive_lamppost_04_b_albedo_ultra.xbt
 graphics\_texture\lights\emissive_unique\emissive_lamppost_04_brdf_ultra.xbt
 graphics\_texture\lights\emissive_unique\emissive_lamppost_04_c_ultra.xbt
 graphics\_texture\lights\emissive_unique\emissive_lamppost_04_e_ultra.xbt
@@ -13133,8 +13184,10 @@ graphics\updates\y01e03\_texture\interior\y01e03_int_mj_hand_01_albedo_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_hand_01_brdf_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_pillartube_01_c_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_pillartube_01_n_ultra.xbt
+graphics\updates\y01e03\_texture\interior\y01e03_int_mj_pillartube_01_s_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_pillartube_03_c_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_pillartube_03_n_ultra.xbt
+graphics\updates\y01e03\_texture\interior\y01e03_int_mj_pillartube_03_s_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_plant_01_c_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_plant_01_n_ultra.xbt
 graphics\updates\y01e03\_texture\interior\y01e03_int_mj_plant_01_s_ultra.xbt
