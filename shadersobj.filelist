@@ -1,4 +1,4 @@
-; 6375/169598 (3%)
+; 6376/169598 (3%)
 engine\shaders\fastinitdata.bin
 engine\shaders\fastinitdata_d3d12.bin
 engine\shaders\obj\h00\renderstates_79bdcad0287b1200.rs
@@ -465,6 +465,7 @@ engine\shaders\obj_d3d12\h06\vertex_12335dc827763c86.vso
 engine\shaders\obj_d3d12\h06\vertex_2548a0bc42dff986.vso
 engine\shaders\obj_d3d12\h06\vertex_4752f381be156486.vso
 engine\shaders\obj_d3d12\h06\vertex_5c37a538b9019686.vso
+engine\shaders\obj_d3d12\h06\vertex_67e708e7c77ff086.vso
 engine\shaders\obj_d3d12\h06\vertex_922b4b3c1b6a9e86.vso
 engine\shaders\obj_d3d12\h06\vertex_97c7089eee3f386.vso
 engine\shaders\obj_d3d12\h06\vertex_9ea9ff0baffe486.vso
