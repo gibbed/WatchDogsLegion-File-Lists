@@ -1,4 +1,4 @@
-; 250/263 (95%)
+; 262/263 (99%)
 graphics\bink\_debug\_debug_audiobar.bik
 graphics\bink\_debug\_debug_bagleyproto_alpha_os.bik
 graphics\bink\_debug\_debug_bagleyproto_alphablack_os.bik
@@ -83,15 +83,25 @@ graphics\bink\wd3_bagleys\opl_321_s010_bb_bagleybriefing.bik
 graphics\bink\wd3_bagleys\opl_506_s020_bb_harddrive.bik
 graphics\bink\wd3_bagleys\sao_321_s001_bb_bagleybriefing.bik
 graphics\bink\wd3_fullscreen\_generic_staticdownload_fs.bik
+graphics\bink\wd3_fullscreen\_generic_staticdownload_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_110_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_110_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_210_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_210_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_310_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_310_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_410_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_410_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_510_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_510_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_610_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_610_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_710_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_710_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\bum_810_vid_celebration_fs.bik
+graphics\bink\wd3_fullscreen\bum_810_vid_celebration_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\generic_vid_elevatortransition_up_fs.bik
+graphics\bink\wd3_fullscreen\generic_vid_elevatortransition_up_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\gst_001_s010_vid_parliament_fs.bik
 graphics\bink\wd3_fullscreen\gst_001_s010_vid_parliament_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\gst_001_s060_vid_detonator_pt_1.bik
@@ -113,6 +123,7 @@ graphics\bink\wd3_fullscreen\gst_002_s055_vid_network_hacked_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\gst_004_s120_vid_marykelleycall_fs.bik
 graphics\bink\wd3_fullscreen\gst_004_s120_vid_marykelleycall_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\oob_s010_vid_opening_fs.bik
+graphics\bink\wd3_fullscreen\oob_s010_vid_opening_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_103_s133_hyb_hotel_date.bik
 graphics\bink\wd3_fullscreen\opl_103_s133_hyb_hotel_date-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_106_s021_vid_doldrums_fs.bik
@@ -125,6 +136,7 @@ graphics\bink\wd3_fullscreen\opl_205_s120_vid_toan_talk_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_315_s110_vid_nigel_meeting_fs.bik
 graphics\bink\wd3_fullscreen\opl_315_s110_vid_nigel_meeting_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_322_s120_vid_nanoaccesspoint_fs_part2.bik
+graphics\bink\wd3_fullscreen\opl_322_s120_vid_nanoaccesspoint_fs_part2-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_505_s060_vid_kaitlin_log_fs.bik
 graphics\bink\wd3_fullscreen\opl_505_s060_vid_kaitlin_log_fs-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_506_s031_vid_zeroday_taunt_fs.bik

@@ -1,4 +1,4 @@
-; 3889/32239 (12%)
+; 3904/32239 (12%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_gameplay.fzl
 aireactions\aireactions_drone_animation.fzl
@@ -376,6 +376,7 @@ domino\user\sao\sao_411\sao_411_m002.sao_411_m002_main.debug.lua
 domino\user\sao\sao_411\sao_411_m002.sao_411_m002_main.lua
 drive\car\bin\civ_classic_04.handling.bin
 drive\car\bin\civ_classic_04_sport.handling.bin
+engine\actionmaps\debugactionmap.xml
 engine\actionmaps\inputactionmapcommon.xml
 engine\actionmaps\inputactionmapcommonremappable.xml
 engine\gamemodes\gamemodesconfig.xml
@@ -2629,6 +2630,8 @@ graphics\_materials\twrobel-m-9223372264140974533.material.bin
 graphics\_materials\twrobel-m-9223372264140974540.material.bin
 graphics\_materials\vto-m-9223372279320645464.material.bin
 graphics\_materials\xyang-m-9223372261675553193.material.bin
+graphics\bink\wd3_fullscreen\generic_vid_elevatortransition_up_fs-pcultra.bik
+graphics\bink\wd3_fullscreen\mainmenubackground-pcultra.bik
 graphics\bink\wd3_fullscreen\opl_508_s200_vid_news_closing_montage_fs_no_images.bik
 graphics\bink\wd3_fullscreen\opl_508_s200_vid_news_closing_montage_fs_no_images-pcultra.bik
 graphics\characters\wd3\body_parts\hair\cornrowsmodern00\female\hair_cornrowsmodern00_f.high.xbgmip
@@ -3289,6 +3292,7 @@ plasmadialogs\dialogtemplates.polish.data
 plasmadialogs\dialogtemplates.russian.data
 plasmadialogs\dialogtemplates.spanish.data
 plasmadialogs\linevarianttable.data
+plasmadialogs\plasmainfo.xml
 profiler\profilertable.rml
 ressize.dat
 rulesmith\ai.rul
@@ -3703,6 +3707,7 @@ ui\fire\bin\hud_closedcaptions.feu
 ui\fire\bin\hud_connectivitycheck.feu
 ui\fire\bin\hud_debug.feu
 ui\fire\bin\hud_emotewheel.feu
+ui\fire\bin\hud_endlessrunnergame.feu
 ui\fire\bin\hud_freeformtext.feu
 ui\fire\bin\hud_fullhack.feu
 ui\fire\bin\hud_gamerprofile.feu
@@ -3713,12 +3718,14 @@ ui\fire\bin\hud_kickup.feu
 ui\fire\bin\hud_livenotifications.feu
 ui\fire\bin\hud_log.feu
 ui\fire\bin\hud_markers.feu
+ui\fire\bin\hud_matchmakingstart.feu
 ui\fire\bin\hud_minimapbackground.feu
 ui\fire\bin\hud_multiplayerparty.feu
 ui\fire\bin\hud_musicstream.feu
 ui\fire\bin\hud_narrativecall.feu
 ui\fire\bin\hud_notifications.feu
 ui\fire\bin\hud_objectives.feu
+ui\fire\bin\hud_obstaclerungame.feu
 ui\fire\bin\hud_operativedeath.feu
 ui\fire\bin\hud_photocamera.feu
 ui\fire\bin\hud_photodetection.feu
@@ -3765,11 +3772,15 @@ ui\fire\bin\menupage_smartphonehome.feu
 ui\fire\bin\menupopup.feu
 ui\fire\bin\multiplayertabdigitaltriplauncher.feu
 ui\fire\bin\multiplayertabhomepage.feu
+ui\fire\bin\multiplayertabprofile.feu
 ui\fire\bin\multiplayertabraidlauncher.feu
+ui\fire\bin\multiplayertabsociallist.feu
+ui\fire\bin\multiplayertabvisualmatchmaking.feu
 ui\fire\bin\newstiles.feu
 ui\fire\bin\operativecontacts.feu
 ui\fire\bin\opsapp.feu
 ui\fire\bin\pc_appstore.feu
+ui\fire\bin\pc_carondemand.feu
 ui\fire\bin\pc_menu_shoptiles.feu
 ui\fire\bin\pc_menu_shopweaponstashtiles.feu
 ui\fire\bin\pc_menupage_smartphonehome.feu
@@ -3778,13 +3789,17 @@ ui\fire\bin\pcwd2settingsmenu.feu
 ui\fire\bin\premiumshopcategories.feu
 ui\fire\bin\premiumshopcurrency.feu
 ui\fire\bin\premiumshopitems.feu
+ui\fire\bin\raidbossinfoterminal.feu
+ui\fire\bin\raiddroneterminal.feu
 ui\fire\bin\rootmovie.feu
 ui\fire\bin\shared_operative.feu
 ui\fire\bin\shared_rank.feu
 ui\fire\bin\shared_traits.feu
+ui\fire\bin\startcalibration.feu
 ui\fire\bin\startscreen.feu
 ui\fire\bin\streetartapp.feu
 ui\fire\bin\teammenu.feu
+ui\fire\bin\teammenu_mods.feu
 ui\fire\bin\teammenu_modsbar.feu
 ui\fire\bin\tutorialapp.feu
 ui\fire\bin\ubisoftclubapp.feu

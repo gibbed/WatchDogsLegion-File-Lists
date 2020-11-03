@@ -1,4 +1,4 @@
-; 8753/169598 (5%)
+; 8757/169598 (5%)
 engine\shaders\fastinitdata.bin
 engine\shaders\fastinitdata_d3d12.bin
 engine\shaders\fastinitdata_vulkan_dxc.bin
@@ -2243,6 +2243,7 @@ engine\shaders\obj_d3d12\h21\pixel_ab4bb7c3d51097a1.pso
 engine\shaders\obj_d3d12\h21\pixel_d6756a4b50d01921.pso
 engine\shaders\obj_d3d12\h21\pixel_d7ea6a6100a3bd21.pso
 engine\shaders\obj_d3d12\h21\pixel_ed69a2d9ecfe4ca1.pso
+engine\shaders\obj_d3d12\h21\renderstates_1f96ed786a3beba1.rs
 engine\shaders\obj_d3d12\h21\renderstates_21a29e22bde706a1.rs
 engine\shaders\obj_d3d12\h21\renderstates_7d5f2d74396eeda1.rs
 engine\shaders\obj_d3d12\h21\renderstates_c33e5f1d1824dc21.rs
@@ -5143,6 +5144,7 @@ engine\shaders\obj_d3d12\h5c\pixel_e4f6a5bdf04a065c.pso
 engine\shaders\obj_d3d12\h5c\renderstates_5be2f2d58ab1e05c.rs
 engine\shaders\obj_d3d12\h5c\renderstates_60e5f55863fee55c.rs
 engine\shaders\obj_d3d12\h5c\renderstates_b890ab655edb6a5c.rs
+engine\shaders\obj_d3d12\h5c\renderstates_ee0f2aa4542eab5c.rs
 engine\shaders\obj_d3d12\h5c\vertex_16ae8d9bb9af25c.vso
 engine\shaders\obj_d3d12\h5c\vertex_23d5da75c38200dc.vso
 engine\shaders\obj_d3d12\h5c\vertex_45e11a4caf936b5c.vso
@@ -7346,6 +7348,7 @@ engine\shaders\obj_vulkan_dxc\h21\dependencies_473eea5d459c8aa1.dep
 engine\shaders\obj_vulkan_dxc\h21\pixel_2c6cfea387487b21.pso
 engine\shaders\obj_vulkan_dxc\h21\pixel_4f5bd5378e104c21.pso
 engine\shaders\obj_vulkan_dxc\h21\pixel_7e59a67d57d83da1.pso
+engine\shaders\obj_vulkan_dxc\h21\renderstates_1f96ed786a3beba1.rs
 engine\shaders\obj_vulkan_dxc\h21\renderstates_21a29e22bde706a1.rs
 engine\shaders\obj_vulkan_dxc\h21\renderstates_7d5f2d74396eeda1.rs
 engine\shaders\obj_vulkan_dxc\h21\renderstates_c33e5f1d1824dc21.rs
@@ -8219,6 +8222,7 @@ engine\shaders\obj_vulkan_dxc\h5c\pixel_e4f6a5bdf04a065c.pso
 engine\shaders\obj_vulkan_dxc\h5c\renderstates_5be2f2d58ab1e05c.rs
 engine\shaders\obj_vulkan_dxc\h5c\renderstates_60e5f55863fee55c.rs
 engine\shaders\obj_vulkan_dxc\h5c\renderstates_b890ab655edb6a5c.rs
+engine\shaders\obj_vulkan_dxc\h5c\renderstates_ee0f2aa4542eab5c.rs
 engine\shaders\obj_vulkan_dxc\h5c\vertex_71cf16c7f24e29dc.vso
 engine\shaders\obj_vulkan_dxc\h5d\compute_1bbad95a89d8f8dd.cso
 engine\shaders\obj_vulkan_dxc\h5d\compute_227146959e44c65d.cso

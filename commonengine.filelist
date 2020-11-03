@@ -1,4 +1,6 @@
-; 31/45 (68%)
+; 45/45 (100%)
+engine\settings\assetbrowserfieldsconfig.xml
+engine\settings\assetindexerconfig.xml
 engine\settings\commandconfig.default.xml
 engine\settings\defaultcinemaconfig.xml
 engine\settings\defaulteditorconfig.xml
@@ -9,15 +11,25 @@ engine\settings\defaultengineservicesconfig.xml
 engine\settings\defaultgameconfig.xml
 engine\settings\defaultlaunchconfig.xml
 engine\settings\defaultnetworkconfig.xml
+engine\settings\defaultpluginloggersettings.xml
 engine\settings\defaultrealtreeconfig.xml
 engine\settings\defaultrenderconfig.xml
 engine\settings\defaultsoundconfig.xml
 engine\settings\defaultthreadingconfig.xml
+engine\settings\devpatcher.xml
 engine\settings\durango\defaultrealtreeconfig.xml
 engine\settings\durango\defaultrenderconfig.xml
 engine\settings\durango\playerawards.xml
 engine\settings\durango\playerpresence.xml
+engine\settings\editorlocksrvconfig.xml
+engine\settings\editorsettings.default.xml
+engine\settings\geometrystats.xml
 engine\settings\gpudatabase.xml
+engine\settings\gpuperfmonitor.xml
+engine\settings\imguiprivateconfig.xml
+engine\settings\joebrowserconfig.xml
+engine\settings\joeconfig.xml
+engine\settings\layout\layout.default.xml
 engine\settings\orbis\defaultrealtreeconfig.xml
 engine\settings\orbis\playerawards.xml
 engine\settings\orbis\playerpresence.xml
@@ -27,6 +39,8 @@ engine\settings\prospero\playerpresence.xml
 engine\settings\scarlett\defaultrealtreeconfig.xml
 engine\settings\scarlett\playerawards.xml
 engine\settings\scarlett\playerpresence.xml
+engine\settings\soundregionconfig.xml
 engine\settings\win64\playerawards.xml
 engine\settings\win64\playerpresence.xml
 engine\settings\yeti\playerawards.xml
+engine\settings\yeti\playerstats.xml
