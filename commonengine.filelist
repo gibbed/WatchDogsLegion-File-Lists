@@ -1,5 +1,8 @@
-; 23/45 (51%)
+; 31/45 (68%)
 engine\settings\commandconfig.default.xml
+engine\settings\defaultcinemaconfig.xml
+engine\settings\defaulteditorconfig.xml
+engine\settings\defaulteditorconfig_legacy.xml
 engine\settings\defaultengineconfig.xml
 engine\settings\defaultengineconfig_legacy.xml
 engine\settings\defaultengineservicesconfig.xml
@@ -10,13 +13,18 @@ engine\settings\defaultrealtreeconfig.xml
 engine\settings\defaultrenderconfig.xml
 engine\settings\defaultsoundconfig.xml
 engine\settings\defaultthreadingconfig.xml
+engine\settings\durango\defaultrealtreeconfig.xml
+engine\settings\durango\defaultrenderconfig.xml
 engine\settings\durango\playerawards.xml
 engine\settings\durango\playerpresence.xml
 engine\settings\gpudatabase.xml
+engine\settings\orbis\defaultrealtreeconfig.xml
 engine\settings\orbis\playerawards.xml
 engine\settings\orbis\playerpresence.xml
+engine\settings\prospero\defaultrealtreeconfig.xml
 engine\settings\prospero\playerawards.xml
 engine\settings\prospero\playerpresence.xml
+engine\settings\scarlett\defaultrealtreeconfig.xml
 engine\settings\scarlett\playerawards.xml
 engine\settings\scarlett\playerpresence.xml
 engine\settings\win64\playerawards.xml

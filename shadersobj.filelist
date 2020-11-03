@@ -1,4 +1,4 @@
-; 6365/169598 (3%)
+; 6375/169598 (3%)
 engine\shaders\fastinitdata.bin
 engine\shaders\fastinitdata_d3d12.bin
 engine\shaders\obj\h00\renderstates_79bdcad0287b1200.rs
@@ -2385,6 +2385,7 @@ engine\shaders\obj_d3d12\h2d\vertex_c0278e40dddf312d.vso
 engine\shaders\obj_d3d12\h2d\vertex_c2ad5cba3651ba2d.vso
 engine\shaders\obj_d3d12\h2d\vertex_cb8cfdc9cf787e2d.vso
 engine\shaders\obj_d3d12\h2d\vertex_d2f4995cd243b4ad.vso
+engine\shaders\obj_d3d12\h2d\vertex_e6961db76eff58ad.vso
 engine\shaders\obj_d3d12\h2d\vertex_ea3d7f630b7ec82d.vso
 engine\shaders\obj_d3d12\h2d\vertex_ef4dddc373ed7b2d.vso
 engine\shaders\obj_d3d12\h2d\vertex_f6b5c2e4f35a8fad.vso
@@ -3622,6 +3623,7 @@ engine\shaders\obj_d3d12\h47\vertex_956c55666cba8447.vso
 engine\shaders\obj_d3d12\h47\vertex_b59acc32e5871c47.vso
 engine\shaders\obj_d3d12\h47\vertex_bc1d238d81b99047.vso
 engine\shaders\obj_d3d12\h47\vertex_be2ae9db0a075a47.vso
+engine\shaders\obj_d3d12\h47\vertex_bfc6728548486ac7.vso
 engine\shaders\obj_d3d12\h47\vertex_cf78cf0c65579fc7.vso
 engine\shaders\obj_d3d12\h47\vertex_d906fce29970e8c7.vso
 engine\shaders\obj_d3d12\h47\vertex_dbba9ed8ce7365c7.vso
@@ -3814,6 +3816,7 @@ engine\shaders\obj_d3d12\h4b\pixel_35f81901b2074b.pso
 engine\shaders\obj_d3d12\h4b\pixel_615362e57f2799cb.pso
 engine\shaders\obj_d3d12\h4b\pixel_8b522326b1070c4b.pso
 engine\shaders\obj_d3d12\h4b\pixel_a7a33daef3440bcb.pso
+engine\shaders\obj_d3d12\h4b\pixel_bad01d14907c6fcb.pso
 engine\shaders\obj_d3d12\h4b\pixel_d1be357fd4dff0cb.pso
 engine\shaders\obj_d3d12\h4b\pixel_dab526c57dbc454b.pso
 engine\shaders\obj_d3d12\h4b\pixel_e7289876612576cb.pso
@@ -4001,6 +4004,7 @@ engine\shaders\obj_d3d12\h4f\dependencies_e5232039a6f4cbcf.dep
 engine\shaders\obj_d3d12\h4f\pixel_13fa1e615fa9fa4f.pso
 engine\shaders\obj_d3d12\h4f\pixel_1a1e7a970f55374f.pso
 engine\shaders\obj_d3d12\h4f\pixel_34592613d8efc2cf.pso
+engine\shaders\obj_d3d12\h4f\pixel_461928e4ace7b34f.pso
 engine\shaders\obj_d3d12\h4f\pixel_5eee8a5b7de1dacf.pso
 engine\shaders\obj_d3d12\h4f\pixel_66ed22a61c247f4f.pso
 engine\shaders\obj_d3d12\h4f\pixel_7456afd91e3f47cf.pso
@@ -4288,6 +4292,7 @@ engine\shaders\obj_d3d12\h55\dependencies_551e47a9d4c30c55.dep
 engine\shaders\obj_d3d12\h55\pixel_1eadf7e967b564d5.pso
 engine\shaders\obj_d3d12\h55\pixel_2162ca5492f0d755.pso
 engine\shaders\obj_d3d12\h55\pixel_463f95bf7e5778d5.pso
+engine\shaders\obj_d3d12\h55\pixel_627de8d89d0c5255.pso
 engine\shaders\obj_d3d12\h55\pixel_754f8b68f5697555.pso
 engine\shaders\obj_d3d12\h55\pixel_771aa3a3b16c4cd5.pso
 engine\shaders\obj_d3d12\h55\pixel_789fbae8fb7bbd55.pso
@@ -4938,6 +4943,7 @@ engine\shaders\obj_d3d12\h62\vertex_39b28296443f76e2.vso
 engine\shaders\obj_d3d12\h62\vertex_45a30ad6cca7fc62.vso
 engine\shaders\obj_d3d12\h62\vertex_532749b7e0a71ae2.vso
 engine\shaders\obj_d3d12\h62\vertex_5a1cd0c0108f2c62.vso
+engine\shaders\obj_d3d12\h62\vertex_62fce8c4c0b1dd62.vso
 engine\shaders\obj_d3d12\h62\vertex_981ea2be159f15e2.vso
 engine\shaders\obj_d3d12\h62\vertex_a9fdb0ebd0743362.vso
 engine\shaders\obj_d3d12\h62\vertex_adb97c479d7510e2.vso
@@ -5218,6 +5224,7 @@ engine\shaders\obj_d3d12\h68\pixel_bc48f22159ac5768.pso
 engine\shaders\obj_d3d12\h68\pixel_d09409e6da65e3e8.pso
 engine\shaders\obj_d3d12\h68\pixel_d763928bf2d90de8.pso
 engine\shaders\obj_d3d12\h68\pixel_e40bc3b1331d3ae8.pso
+engine\shaders\obj_d3d12\h68\pixel_e65f0441feb70a68.pso
 engine\shaders\obj_d3d12\h68\pixel_e93c953a2b12f9e8.pso
 engine\shaders\obj_d3d12\h68\pixel_e954e760ae91dae8.pso
 engine\shaders\obj_d3d12\h68\renderstates_6ba3f1e197db2768.rs
@@ -5492,6 +5499,7 @@ engine\shaders\obj_d3d12\h6d\vertex_5d651fdd23a95b6d.vso
 engine\shaders\obj_d3d12\h6d\vertex_7982d4b40d7176d.vso
 engine\shaders\obj_d3d12\h6d\vertex_863dc0602ab73eed.vso
 engine\shaders\obj_d3d12\h6d\vertex_abb7e384b80f986d.vso
+engine\shaders\obj_d3d12\h6d\vertex_b1cacb033888d4ed.vso
 engine\shaders\obj_d3d12\h6d\vertex_bd57a81dcf3c6c6d.vso
 engine\shaders\obj_d3d12\h6d\vertex_d40fc7c65bf4e0ed.vso
 engine\shaders\obj_d3d12\h6e\compute_1f751f720ef877ee.cso
@@ -5798,6 +5806,7 @@ engine\shaders\obj_d3d12\h74\pixel_46c5bea0b3a89674.pso
 engine\shaders\obj_d3d12\h74\pixel_5c140e7a874dd374.pso
 engine\shaders\obj_d3d12\h74\pixel_5f5555f23d362474.pso
 engine\shaders\obj_d3d12\h74\pixel_80a9b02c2fbf4.pso
+engine\shaders\obj_d3d12\h74\pixel_86e36657bfc597f4.pso
 engine\shaders\obj_d3d12\h74\pixel_9a67d5c9c232ec74.pso
 engine\shaders\obj_d3d12\h74\pixel_a9fd1fa68cbf64f4.pso
 engine\shaders\obj_d3d12\h74\pixel_b6f718d52bbbb974.pso
@@ -6364,3 +6373,4 @@ engine\shaders\obj_d3d12\index.pso
 engine\shaders\obj_d3d12\index.rs
 engine\shaders\obj_d3d12\index.rtso
 engine\shaders\obj_d3d12\index.vso
+engine\shaders\shaders.crc

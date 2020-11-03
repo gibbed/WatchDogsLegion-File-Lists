@@ -1,4 +1,4 @@
-; 13875/13881 (99%)
+; 13879/13881 (99%)
 graphics\_geometries\vegetation\_textures\decals\jacaranda_petal_decal_c_ultra.xbt
 graphics\_geometries\vegetation\_textures\decals\jacaranda_petal_decal_n_ultra.xbt
 graphics\_geometries\vegetation\_textures\decals\jacaranda_petal_decal_s_ultra.xbt
@@ -3795,6 +3795,8 @@ graphics\_texture\branding\majorbrands\albion\albion_banner_pole_01_c_ultra.xbt
 graphics\_texture\branding\majorbrands\albion\albion_banner_pole_01_e_ultra.xbt
 graphics\_texture\branding\majorbrands\albion\albion_banner_pole_01_s_ultra.xbt
 graphics\_texture\branding\majorbrands\albion\albion_propagandaad_deface_04_c_ultra.xbt
+graphics\_texture\branding\majorbrands\albion\albion_propagandaad_deface_06_c_ultra.xbt
+graphics\_texture\branding\majorbrands\albion\albion_propagandaad_deface_07_c_ultra.xbt
 graphics\_texture\branding\majorbrands\albion\banner_wall_logo_albion_left_01_c_ultra.xbt
 graphics\_texture\branding\majorbrands\albion\banner_wall_logo_albion_mid_01_c_ultra.xbt
 graphics\_texture\branding\majorbrands\albion\banner_wall_logo_albion_mid_01_n_ultra.xbt
@@ -5867,6 +5869,7 @@ graphics\_texture\geometry\decals\non-projected\decal_walltrim_brick_02_c_ultra.
 graphics\_texture\geometry\decals\non-projected\decal_window_dirt_01_c_ultra.xbt
 graphics\_texture\geometry\decals\non-projected\decal_window_frost_01_c_ultra.xbt
 graphics\_texture\geometry\decals\non-projected\decal_window_frost_01_n_ultra.xbt
+graphics\_texture\geometry\decals\non-projected\decal_window_frost_01_s_ultra.xbt
 graphics\_texture\geometry\decals\non-projected\decal_window_poster_01_c_ultra.xbt
 graphics\_texture\geometry\decals\non-projected\decal_window_poster_01_s_ultra.xbt
 graphics\_texture\geometry\decals\non-projected\decal_wood_paint_01_c_ultra.xbt
@@ -11677,6 +11680,7 @@ graphics\characters\wd3\body_parts\body\generic00\texture\body_generic00_m_n_ult
 graphics\characters\wd3\body_parts\body\generic00\texture\body_generic00_m_s_ultra.xbt
 graphics\characters\wd3\body_parts\body\generic00\texture\body_generic00_old_n_ultra.xbt
 graphics\characters\wd3\body_parts\body\generic00\texture\body_generic00_sweaty_f_n_ultra.xbt
+graphics\characters\wd3\body_parts\body\generic00\texture\body_generic00_sweaty_f_s_ultra.xbt
 graphics\characters\wd3\body_parts\body\generic00\texture\body_genericmask00_ultra.xbt
 graphics\characters\wd3\body_parts\body\generic00\texture\body_genericmuscular00_f_n_ultra.xbt
 graphics\characters\wd3\body_parts\body\generic00\texture\body_genericmuscular00_m_n_ultra.xbt
