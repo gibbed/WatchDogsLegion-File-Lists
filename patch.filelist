@@ -1,4 +1,4 @@
-; 3904/32239 (12%)
+; 3907/32239 (12%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_gameplay.fzl
 aireactions\aireactions_drone_animation.fzl
@@ -3694,6 +3694,7 @@ ui\fire\bin\debugannotationsystem.feu
 ui\fire\bin\debugapp.feu
 ui\fire\bin\demostart.feu
 ui\fire\bin\endcredits.feu
+ui\fire\bin\fontmanager.feu
 ui\fire\bin\fullscreentutorial.feu
 ui\fire\bin\gadgetcustomization.feu
 ui\fire\bin\gh_uplay.feu
@@ -3712,6 +3713,7 @@ ui\fire\bin\hud_freeformtext.feu
 ui\fire\bin\hud_fullhack.feu
 ui\fire\bin\hud_gamerprofile.feu
 ui\fire\bin\hud_ingamemap_worldmaptext.feu
+ui\fire\bin\hud_invasion.feu
 ui\fire\bin\hud_itemselection.feu
 ui\fire\bin\hud_keylocation.feu
 ui\fire\bin\hud_kickup.feu
@@ -3736,6 +3738,7 @@ ui\fire\bin\hud_quickhack.feu
 ui\fire\bin\hud_rcitemselection.feu
 ui\fire\bin\hud_rcoverlay.feu
 ui\fire\bin\hud_saveandload.feu
+ui\fire\bin\hud_scavengerhunt_score.feu
 ui\fire\bin\hud_streaminginstallation.feu
 ui\fire\bin\hud_subtitles.feu
 ui\fire\bin\hud_textchat.feu
