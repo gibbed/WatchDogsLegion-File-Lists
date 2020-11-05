@@ -1,4 +1,4 @@
-; 8757/169598 (5%)
+; 8761/169598 (5%)
 engine\shaders\fastinitdata.bin
 engine\shaders\fastinitdata_d3d12.bin
 engine\shaders\fastinitdata_vulkan_dxc.bin
@@ -4455,6 +4455,7 @@ engine\shaders\obj_d3d12\h4e\pixel_1d2da019061941ce.pso
 engine\shaders\obj_d3d12\h4e\pixel_2a7f0898deeddc4e.pso
 engine\shaders\obj_d3d12\h4e\pixel_3268e42958ea9ace.pso
 engine\shaders\obj_d3d12\h4e\pixel_3274f9e7c309f64e.pso
+engine\shaders\obj_d3d12\h4e\pixel_4eb803c77264fcce.pso
 engine\shaders\obj_d3d12\h4e\pixel_672cb72bade8f1ce.pso
 engine\shaders\obj_d3d12\h4e\pixel_769f1de03cf45e4e.pso
 engine\shaders\obj_d3d12\h4e\pixel_79a01c08c49e4f4e.pso
@@ -5435,6 +5436,7 @@ engine\shaders\obj_d3d12\h62\pixel_7aff37eaa13727e2.pso
 engine\shaders\obj_d3d12\h62\pixel_a5fbc900852b7be2.pso
 engine\shaders\obj_d3d12\h62\pixel_d969df48f364a7e2.pso
 engine\shaders\obj_d3d12\h62\pixel_e987a3ee0a2c7562.pso
+engine\shaders\obj_d3d12\h62\pixel_fc575d20a0abace2.pso
 engine\shaders\obj_d3d12\h62\renderstates_421e893aff03f062.rs
 engine\shaders\obj_d3d12\h62\renderstates_4b985077f9bdd562.rs
 engine\shaders\obj_d3d12\h62\renderstates_e379a6dc95b2c662.rs
@@ -6108,6 +6110,7 @@ engine\shaders\obj_d3d12\h70\pixel_a774add40feb71f0.pso
 engine\shaders\obj_d3d12\h70\pixel_d54d4c479b179370.pso
 engine\shaders\obj_d3d12\h70\pixel_e4a010e6f6f877f0.pso
 engine\shaders\obj_d3d12\h70\pixel_ec150dd5b300daf0.pso
+engine\shaders\obj_d3d12\h70\pixel_ef7b6598f5f4e5f0.pso
 engine\shaders\obj_d3d12\h70\renderstates_92a1270885a70970.rs
 engine\shaders\obj_d3d12\h70\renderstates_a58f0e743456af70.rs
 engine\shaders\obj_d3d12\h70\vertex_1163e33bf6bc2af0.vso
@@ -6636,6 +6639,7 @@ engine\shaders\obj_d3d12\h7a\vertex_5f084c1f9f89767a.vso
 engine\shaders\obj_d3d12\h7a\vertex_6df1f4cfe081f6fa.vso
 engine\shaders\obj_d3d12\h7a\vertex_72d2dd6a4bd1f07a.vso
 engine\shaders\obj_d3d12\h7a\vertex_83c11b64813beffa.vso
+engine\shaders\obj_d3d12\h7a\vertex_a680ff7d29bc6e7a.vso
 engine\shaders\obj_d3d12\h7a\vertex_b8362709f56ac97a.vso
 engine\shaders\obj_d3d12\h7a\vertex_cdffb3e61d5a267a.vso
 engine\shaders\obj_d3d12\h7a\vertex_d1b54ac9962d96fa.vso

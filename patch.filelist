@@ -1,4 +1,4 @@
-; 3907/32239 (12%)
+; 3915/32239 (12%)
 aireactions\aireactions_animal_animation.fzl
 aireactions\aireactions_animal_gameplay.fzl
 aireactions\aireactions_drone_animation.fzl
@@ -380,6 +380,7 @@ engine\actionmaps\debugactionmap.xml
 engine\actionmaps\inputactionmapcommon.xml
 engine\actionmaps\inputactionmapcommonremappable.xml
 engine\gamemodes\gamemodesconfig.xml
+engine\scripts\game\ai\dog.ai.rml
 engine\scripts\game\ai\grunt.ai.rml
 engine\settings\defaultengineservicesconfig.xml
 engine\settings\defaultrenderconfig.xml
@@ -648,6 +649,7 @@ engine\shaders\obj_d3d12\h0d\dependencies_a8fc90f6914f398d.dep
 engine\shaders\obj_d3d12\h0d\dependencies_b6d26e1bf1db8e8d.dep
 engine\shaders\obj_d3d12\h0d\dependencies_ced7e5ee8bd3840d.dep
 engine\shaders\obj_d3d12\h0d\pixel_a16ff1d6ac94408d.pso
+engine\shaders\obj_d3d12\h0d\pixel_d99d9903f2e7980d.pso
 engine\shaders\obj_d3d12\h0d\pixel_e4993d2146940c8d.pso
 engine\shaders\obj_d3d12\h0d\pixel_feaa282907d3168d.pso
 engine\shaders\obj_d3d12\h0e\compute_f27467700e130d8e.cso
@@ -900,6 +902,7 @@ engine\shaders\obj_d3d12\h3b\dependencies_d918f835e185533b.dep
 engine\shaders\obj_d3d12\h3b\pixel_7c99a04aa4707bb.pso
 engine\shaders\obj_d3d12\h3b\pixel_86c7a162ca7f4c3b.pso
 engine\shaders\obj_d3d12\h3b\pixel_bb550534e97b5bbb.pso
+engine\shaders\obj_d3d12\h3c\pixel_67c7b507f1b51f3c.pso
 engine\shaders\obj_d3d12\h3c\pixel_a35711ddcdc88dbc.pso
 engine\shaders\obj_d3d12\h3c\pixel_f9f682cc6896163c.pso
 engine\shaders\obj_d3d12\h3d\dependencies_4ddd1cafd49df03d.dep
@@ -916,6 +919,7 @@ engine\shaders\obj_d3d12\h40\compute_8b4f0357d67658c0.cso
 engine\shaders\obj_d3d12\h40\compute_d05072c663714b40.cso
 engine\shaders\obj_d3d12\h40\pixel_4aea31cc089d2940.pso
 engine\shaders\obj_d3d12\h41\dependencies_3155fe34ea394b41.dep
+engine\shaders\obj_d3d12\h41\pixel_65890c3bf5773541.pso
 engine\shaders\obj_d3d12\h41\pixel_96055828d2b80841.pso
 engine\shaders\obj_d3d12\h42\compute_9b53f913f3984cc2.cso
 engine\shaders\obj_d3d12\h42\compute_dc402bd64b3d26c2.cso
@@ -2648,6 +2652,7 @@ graphics\characters\wd3\clothing\feet\ulc_bootschelsea01\female\ulc_feet_bootsch
 graphics\characters\wd3\clothing\feet\ulc_bootschelsea01\male\ulc_feet_bootschelsea01_m.animatedgeometry.nomad.bin
 graphics\characters\wd3\clothing\feet\ulc_bootschelsea01\male\ulc_feet_bootschelsea01_m.high.xbgmip
 graphics\characters\wd3\clothing\feet\ulc_bootschelsea01\male\ulc_feet_bootschelsea01_m.xbg
+graphics\characters\wd3\clothing\feet\ulc_bootschelsea01\texture\ulc_feet_bootschelsea01_a_zoneid.xbt
 graphics\characters\wd3\clothing\feet\ulc_shoehightop02\female\ulc_feet_shoehightop02_f.animatedgeometry.nomad.bin
 graphics\characters\wd3\clothing\feet\ulc_shoehightop02\female\ulc_feet_shoehightop02_f.high.xbgmip
 graphics\characters\wd3\clothing\feet\ulc_shoehightop02\female\ulc_feet_shoehightop02_f.xbg
@@ -2790,6 +2795,7 @@ graphics\characters\wd3\clothing\torso_layer2\ulc_jacketpeacoat02\texture\ulc_la
 graphics\characters\wd3\clothing\torso_layer2\ulc_jacketpeacoat02\texture\ulc_lay2_jacketpeacoat02_emissivecamo_gold_01_a_high.xbt
 graphics\characters\wd3\clothing\torso_layer2\ulc_jacketpeacoat02\texture\ulc_lay2_jacketpeacoat02_emissivecamo_gold_01_a_med.xbt
 graphics\characters\wd3\clothing\torso_layer2\ulc_jacketpeacoat02\texture\ulc_lay2_jacketpeacoat02_emissivecamo_gold_01_a_ultra.xbt
+graphics\characters\wd3\clothing\torso_layer2\ulc_jacketpeacoat02\texture\ulc_lay2_jacketpeacoat02_zoneid.xbt
 graphics\characters\wd3\clothing\torso_layer2\ulc_jacketscifi01\female\ulc_lay2_jacketscifi01_f.animatedgeometry.nomad.bin
 graphics\characters\wd3\clothing\torso_layer2\ulc_jacketscifi01\female\ulc_lay2_jacketscifi01_f.high.xbgmip
 graphics\characters\wd3\clothing\torso_layer2\ulc_jacketscifi01\female\ulc_lay2_jacketscifi01_f.xbg
@@ -2841,6 +2847,7 @@ graphics\characters\wd3\skeletons\body\male\rfxrig_m_elbow_00.skeleton
 graphics\characters\wd3\skeletons\body\male\rfxrig_m_knees_01.skeleton
 graphics\characters\wd3\skeletons\body\male\rfxrig_m_traps_00.skeleton
 graphics\characters\wd3\skeletons\body\male\rfxrig_m_upperbody_00.skeleton
+graphics\characters\wd3\skeletons\clothes\female\rfxrig_f_skirt_lynx_00.skeleton
 graphics\characters\wd3\skeletons\clothes\male\rfxrig_m_armzipper_sim_00.skeleton
 graphics\characters\wd3\skeletons\clothes\male\rfxrig_m_skirt_lynx_00.skeleton
 graphics\characters\wd3\skeletons\female\facial.skeleton
@@ -3903,6 +3910,7 @@ ui\fonts\t-star_pro_medium_default_1.xbt
 ui\supertextures\platform\platform_lib_buttons_extra.xbt
 ui\textures\minimap_frame.xbt
 version.ini
+worlds\london\generated\entitylibrary.fcb
 worlds\london\generated\entitylibrary_rt.fcb
 worlds\london\generated\london_depload.dat
 worlds\london\generated\london_deploadnewparticles.rml
